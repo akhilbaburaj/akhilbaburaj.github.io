@@ -1,17 +1,20 @@
 # Site settings
-title_left    : "My Random ThinkNotes"
-title_right   : "" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
+title_left    : ""
+title_right   : "My Random Notes" # default ""
+description   : "My personal blog to share random stuff!"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://randomnotes.com/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
+twitter_username  : "akhil_baburaj"
+github_username   : "akhilbaburaj"
+linkedin_username : "akhilbaburaj"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
 postshare_enabled : false
+
 
 # Build settings
 permalink   : /:year/:title/
@@ -21,6 +24,27 @@ highlighter : rouge
 source      : ./
 destination : ./_site
 
+# Category Configuration
+defaults:
+  -
+    scope:
+      path: "_posts/stories"
+    values:
+        permalink: /stories/:year/:title/
+        categories: ['stories']
+  -
+    scope:
+      path: "_posts/photos"
+    values:
+        permalink: /stories/:year/:title/
+        categories: ['photos']
+  -
+    scope:
+      path: "_posts/tech"
+    values:
+        permalink: /stories/:year/:title/
+        categories: ['tech']         
+
 # Sass configuration
 sass:
   sass_dir  : assets/scss
@@ -28,7 +52,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Akhil Baburaj"
 
 plugins:
   - jekyll-sitemap

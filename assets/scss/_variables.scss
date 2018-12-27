@@ -1,6 +1,6 @@
 // Typography
-@import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700');
-$base-font-family: 'Overpass Mono', monospace;
+@import url('https://fonts.googleapis.com/css?family=Aleo:400,700');
+$base-font-family: 'Aleo', Aleo;
 $heading-font-family: $base-font-family;
 
 // Font Sizes
@@ -26,8 +26,8 @@ $dark-gray-color: #333;
 $medium-gray-color: #999;
 $light-gray-color: #ccc;
 
-// Font Colors
-$base-font-color: rgba($dark-gray-color, .8);
+// Font Colorss
+$base-font-color: rgba($dark-gray-color, 1.0);
 
 // Border
 $base-border-color: $light-gray-color;
@@ -38,7 +38,7 @@ $base-background-color: $white-color;
 $secondary-background-color: tint($base-border-color, 80%);
 
 // Forms
-$form-box-shadow: inset 0 1px 3px rgba($black-color, 0.06);
+$form-box-shadow: inset 0 1px 3px rgba($black-color, 0.08);
 $form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
 
 // Animations
