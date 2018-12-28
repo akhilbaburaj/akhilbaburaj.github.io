@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+“Who in the world am I? Ah, that's the great puzzle.”  ― Lewis Carroll
