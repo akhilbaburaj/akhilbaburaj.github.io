@@ -5,539 +5,303 @@
     <description>My personal blog to share random stuff!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Dec 2018 23:31:43 +0530</pubDate>
-    <lastBuildDate>Thu, 27 Dec 2018 23:31:43 +0530</lastBuildDate>
+    <pubDate>Fri, 28 Dec 2018 15:25:45 +0530</pubDate>
+    <lastBuildDate>Fri, 28 Dec 2018 15:25:45 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>How to Download or Use This Theme</title>
-        <description>&lt;h3 id=&quot;use-this-theme-as-you-main-site&quot;&gt;Use this theme as you main site&lt;/h3&gt;
+        <title>Pictures</title>
+        <description>&lt;p&gt;As I sit on this couch I see the picture on the wall it is when I realized, time moves so slow when you wait for someone. Someone may not be right word since I know who it is that I am waiting for. Pretty sure it has been few years since I last saw him.. sat with him.. walked with him. I knew him since he was just a kid. He was such a small boy, so active, so full of life. He is nice, kind and genuinely a wonderful person all around. We have a picture of our first meet to remind me of him everyday of my life. It was at the park across the street during an early monsoon. The wind blew hard and I was going to meet my new family. It was going to be a new start for me with them. I was nervous yet with a hope that things would eventually work out. As I walked towards them, I saw him, a small boy with a missing tooth. I was cautious as I took my steps towards them. They were a wonderful family yet a part of held me back. We spent few hours in the park so I could know them better and be comfortable, that’s when he said, ‘Hey Max! Want to play?”. I guess I did not need an introduction by judging the way he just gave me a nickname. “Was Maxine too long to being with?”, I though. To not look rude I decided to follow him for a while and few minutes later, I had naturally started to enjoy his company. Ever since then, I always wanted to be by side as much as possible. We grew up together and we had our beds in the same room so even the nights were also fun. We would secretly stay up late and watch TV together till one day we got caught by mom. Boy was she mad at us but it was fun while it lasted.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Download or fork the master branch of this theme repo into your GitHub account.&lt;/li&gt;
-  &lt;li&gt;Rename the repo into something like &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file to your preferences.&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; file for your About page.&lt;/li&gt;
-  &lt;li&gt;Inside &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, there are sample of blog entries. Learn from it and start yours.&lt;/li&gt;
-  &lt;li&gt;Now, visit &lt;code class=&quot;highlighter-rouge&quot;&gt;http://your_username.github.io&lt;/code&gt; and you should see your blog running.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;He was never physically strong but he sure was strong doing everything that was right. He never had a commanding height nor size, yet he was always caught in fights. I have see him come home with bruises after his school fights. I am pretty sure they hurt a lot but he would scrub it off saying it doesn’t. I am sure he was just standing up for his friends who were the ones getting bullied and being the kind of person he is I bet he would get involved only to get beaten up. I wanted to go with him to his school to show those bullies a piece of my mind but he wouldn’t let me go with him. I guess he was trying to be protective of me even then. It sure wouldn’t be the first time for him. I didn’t go to the same school as him but I did hope I did. His high school years were the not best part of his life. Bad company lured him and he became distant with us. It was tough to spend time with him as he spent less time with his family and me. It would try to chase away his friends when they would come to see him however, this only grew my distance with him to a point everything stopped between us. But luckily there was someone else who stepped into his life during the same time. Elin managed to bring him back but, I didn’t know should I be happy or sad. Should I be happy that he is back to being the nice person he was or sad cause he has someone new one his life who may well be the better half of his life. One day finally got to meet her when he brought her over to our home. She was really sweet and they both made a great pair. All I could do is join them from time to time and hope for the best. The trip to the beach was one of my most fondest memory. We took our picture as the sun sat in for the night. It truly was a wonderful day. However, lives do have their ups and down. During college Elin had to leave town and they ultimately they had to break up. He was sad and filled with sorrow. I did what I could but I knew he needed time and certainly someone else other than me. I wanted to let him know that he would meet someone just like Elin, someone who would be there with him but he never could understand what I told him nor was he ready to understand. All I could do was hope that he would be fine again.&lt;/p&gt;
 
-&lt;h3 id=&quot;use-this-theme-as-a-project-page&quot;&gt;Use this theme as a project page&lt;/h3&gt;
+&lt;p&gt;With the end of his final semester he was finally ready to take on the world as a grown adult. He looked for jobs near-by but nothing clicked. He finally did get one but it was out of town. It was great but, this meant that he would have move out. The separation was expected but I didn’t know it could hurt this much. He said he would come frequently to visit us but I know that would change and it did. He was getting caught up with work and he had cut-down the time to visit us. I wanted to call him but then, I hesitated. Mom used to call him once in a while but it would land in a voice-mail. We didn’t know if he was busy or if he was being distant. I would wait for him to do video chat just to see him and when he did he never looked happy. I wanted to go over to his place but I didn’t want to be a burden. In a year’s time he told us over the call that he had quit his job to join the forces. Mom and dad were furious and they demanded that he returned. I too wanted him to back home. The home were he was truly his own. However, in the end he did leave for his camp and then his first deployment. The last picture he sent was with his uniform. I was so proud of him. He truly looked like a soldier who fights for the people. When ever I missed him I would go to our bedroom and sleep on his bed. His bed gave me some of the best memories of my life. All I could hope for him to return soon.&lt;/p&gt;
 
-&lt;p&gt;If you want to use this theme as a project page blog, you don’t need to rename the theme repo into &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The calls were minimal and when ever he did he was on the speaker phone. He voice had life. May be this is what he was meant to do in life. He always stood for what is right and he gets to do that even now. However, it doesn’t stop the lingering thought that he may eventually be broken down by what happens on the front line, that he may change, that things might turn him for the worse or even worse that he may never return. I have lost track of time since we last spoke. I don’t know what year it is nor do I know how most of my days has goes by. Everyday I would wait at the corridor for the front door to open and hope he would be on its other side but it remains a dream. May be I have aged too fast that makes me feel as if a millennia has passed by.&lt;/p&gt;
 
-&lt;p&gt;All you need to do, open &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, change &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; to your project name which contains this theme, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl: &quot;/myproject&quot;&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;I woke up today and I found that my parents has stepped out. May be they went to get the groceries. As I walked passed the hall I saw a box on the coffee table. It had his pictures in them. So many of them, so many memories flooded by as I saw them. I walked back to our bedroom and I laid down on his bed again. “I wish I could see him again”, I thought while I tried to sniff his diminishing scent off his bed. As I closed my eyes I could hear the car pull over upfront. I could hear my parents talk while they walked up the stair. Old habits don’t die that fast as I walked out of our bedroom and stood along the corridor which lead to our main door. The door opened and I saw parents enter the house, sadly no one else was there. I slowly turned my head to go back to my room. ‘Hey Max’, I heard. May be I am dreaming. I turned my head back to the corridor. I still saw only my parents but something urged me to walk towards the front door. I was being cautious again but not because I was scared rather I didn’t want to let my hallucination get the better of me. I reached the door and there he stood at our front lawn. A full grown man who is back home with the same smile I saw the first time. I was ecstatic and you could hear me bark across the street while I shook my tail in any direction it could. I ran to him to welcome home so we could be together as we used to be for the remaining life I still have.&lt;/p&gt;
 
-&lt;h4 id=&quot;cheers&quot;&gt;Cheers!&lt;/h4&gt;
+&lt;p&gt;FIN.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2016/how-to-download-or-use-this-theme/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2016/how-to-download-or-use-this-theme/</guid>
+        <pubDate>Mon, 24 Dec 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/stories/2018/Pictures/</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2018/Pictures/</guid>
         
         
-        <category>stories</category>
+        <category>Stories</category>
         
       </item>
     
       <item>
-        <title>How to Download or Use This Theme</title>
-        <description>&lt;h3 id=&quot;use-this-theme-as-you-main-site&quot;&gt;Use this theme as you main site&lt;/h3&gt;
+        <title>Reflection</title>
+        <description>&lt;p&gt;They say in life you grown, learn and experience a lot. I did too. Being from a small town my world was small and sweet. I knew everyone around and so did others. There was little to hide. Growing up I loved standing in front of the almara which we had. It had a huge mirror and I loved looking at myself. Anytime I needed to cheer myself up, or talk to myself, I would stand in front of it because it never lied. As time went by, I made a ton of friends. I played and enjoyed my childhood like any other kid. But we had to move to a new town eventually. My heart did sink in a bit, to be away from my friends. However, they are the type to stay in touch no matter what. We promised each other that we will always call each other and gossip our life for hours over the phone. We got help from our neighbors and friends as me and my parents packaged our luggage during our last day in town. The taxi came to pick us to the station and before boarded for it, everyone gave a big hug. I was moved as this is the first time I am leaving this town and that too for good. We boarded our train and we were to start off our new life in a new town.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Download or fork the master branch of this theme repo into your GitHub account.&lt;/li&gt;
-  &lt;li&gt;Rename the repo into something like &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file to your preferences.&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; file for your About page.&lt;/li&gt;
-  &lt;li&gt;Inside &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, there are sample of blog entries. Learn from it and start yours.&lt;/li&gt;
-  &lt;li&gt;Now, visit &lt;code class=&quot;highlighter-rouge&quot;&gt;http://your_username.github.io&lt;/code&gt; and you should see your blog running.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Things were a bit off the moment we reached the final station. It was a crowded city and ever since we got down our train I felt the entire city started right at me. It was a bit uneasy at first, but I did not bother. We took a cab to our new place which already had our furniture dropped off. My parents and I took a while to settle things at their respective places. Nearly the entire day passed by and we were hungry. We decided to eat out and celebrate our new beginning. We freshened up and went to a near-by restaurant. The scene was the same, people stared at us. I know the people in the city are quite flashy with their dressing style but I knew I was not under dressed or out of style. I could hear people murmur and avoid eye contact when I looked at them. My parents told me not to be too concerned with what is happening and just asked me to enjoy the food and our time together. We reached home after a while and I stood in front of the mirror. “I don’t have anything on my dress nor does the dress look that bad.” I said to myself as I looked at my reflection as I questioned myself. In any case, I had to go see a school tomorrow which could be possibly where I would enroll myself. It had a good reputation and I wanted to go there. I changed into my PJ and went to bed so I can be ready for the big day.&lt;/p&gt;
 
-&lt;h3 id=&quot;use-this-theme-as-a-project-page&quot;&gt;Use this theme as a project page&lt;/h3&gt;
+&lt;p&gt;With the alarm on my mobile going off, I finally woke up for the big day. It used to be sound of roosters which did it for me in my hometown but I guess in the city you adapt to alternate sources. With the appointment at 10am we all got ready by 8am. Before we left for the venue which could be possibly my new school, I stood in front my mirror. “You will do awesome here too!”, I said to myself as we headed outside. We reached the school in an hour’s time and the school was exactly how I imagined. I was excited to just be here. We went to meet the principal after waiting for a while. The principal looked stern and so was his tone of voice. He seemed to be reluctant to admit me into the school. I didn’t understand what his problem was but he insisted that I would not be able to handle this. I became furious when he uttered those words. “Is it because I’m a girl? Is it because I’m from a small town? Would it tarnish the school’s reputation if someone as small as I were to join such a large institute?” I wanted to voice my frustrations out however, my dad made sure my voices were heard in the right manner. He stopped me from verbally bombarding the principal and let principal say his side of the story. Once his side was done, my dad took him through his world, on how I am, on how things change one people know me, how I achieve the thing on my own. My dad has a way to pursue people in the right manner and he would make sure people see what he sees through his eyes. It did take a while, however my dad did convince the principal. I wondered if things would have worked out if I vented out my mind like I would do. I guess everything needs a special touch to work out. I was thrilled after our meet as I would be going to an awesome school in the city and I wonder what else in-store was for me in this city.&lt;/p&gt;
 
-&lt;p&gt;If you want to use this theme as a project page blog, you don’t need to rename the theme repo into &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;With my school clothes still yet to be made ready, I was allowed to join the school next day in my casual clothing. I was nervous, in schools we wear the same attire so we don’t stand out and here I am, the new kid on the block flashing out my presence bluntly to the entire school. I made sure I wore a simple dress for the big day and stood in front of the mirror for quite some time to get myself to focus. “It is fine. You look fine. You will make friends on at a time. People will like you for who you are. “, and may more. I winked at myself to finish my therapy session and headed with my dad to school. I decided to walk up to my class however, my dad insisted to accompany me. As I walked passed various classes people were looking right at me. Boy did I grab attention, I was flushed to silence. I knew that with my dad around people would notice us. I was just pacing to reach my class as quickly as possible. My dad decided to turn back half way through, I guess he realized that I was quite nervous with him around. I reached my class and stood in-front for the introduction while the entire class had their eyes set on me. My heart paced a lot to a point where I blabbered my name out. I did not needed anyone else to make me feel more embarrassed about myself as I was doing quite a good job myself. “Savitha is new to school so Tanu, please do take her around the campus to make her more comfortable with the place”, the teacher said. “Great now they are forcing someone to babysit me. I wanted to use that to break the ice and make friends. I am sure Tina would be reluctant to do so but she cannot overrule the teacher now. I guess I should say sorry to her up-front”, I thought. I sat next to her and to my surprise she was quite nice and friendly. She did not seem to mind the responsibility and we hit it off immediately. With the period coming to an end I could see more people approaching my desk. I guess people are the same everywhere. We start off with a clean slate so there is nothing to judge about unless you had your own story for them. I made quite a few friends but they were all girls though. The guys would prank around with other girls but it looked like they are caution with me. It may be because I am new and they don’t how I would react to. “That is fine”, I thought to myself. This is better than people murmuring on their own and giving me weird looks. The day ended with a couple of us girls and few guys walked throughout the school with me while we chitter-chattered girly stuff. The guys tried playing their ‘I’m too cool’ card when we walked to only be teased out by the girls. It was fun experience overall. I enjoyed this place and it was exactly as I imagined. Our walk ended at the school gate where my dad waited for me to take me home. During dinner I told my parents everything and they were happy that this place was comfortable for me. They asked me if I would like to invite my classmates over the weekend and I was thrilled to have my parents meet them. I called my town friends from the over the phone and we talked about my entire day’s story till late at night. It was very satisfying to have friends who know click with. Before I hit the bed I went to the mirror just to see my face and I loved the smile that ran across it.&lt;/p&gt;
 
-&lt;p&gt;All you need to do, open &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, change &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; to your project name which contains this theme, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl: &quot;/myproject&quot;&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Weekend had arrived and I had a quite a huge gang reach my place. I took them through the tour of our house and then to my bedroom where were gossiped a lot. I had a bad habit of looking at the mirror from time to time to see myself smile and my friend’s noticed this. “Hey, what’s with you and the mirror?”, they asked. I went ahead and told them my silly habit for which they laughed out of humor. Then one of the guys asked me something that was never directed to me in a long time. “Hey, how did you lose your arms?” “Stupid, how blunt can you be!!”, yelled Tanu. “You don’t have to answer that if you don’t want to”, she added. I realized that people refrain from asking this for many reasons and since I was in my hometown for a long time, most people knew the story and didn’t bother much about it. It makes sense why he was curious, he was new after all. “Just some events lead to it, that’s all”, I replied with a smile. “Cause, I am not sure how you get things done on your own.”, he said. I am sure the rest were tensed with the way he spurred out his mind and how I might take it. “Well, I am not handicapped, I am just differently-abled.”, I added. “Cool! So pretty much you are a bad ass. Nice to know!”, he replied as he smirked. I was happy that to him it was just something ‘need to know’ question to him rather than fixate an idea or an image about me. I guess even they were happy with how the entire showdown went through. There was little to none sobbing or sympathetic response from my condition because they did not see any problem with me. It takes a lot for people to interact and when you look different, people tend to act differently. At least all my friends are the same. They see me just like I see myself in the mirror. People stand in front of the mirror and take many pictures. It is not because their reflection looks better on glass but rather because that is how they truly are. You are everything that you see and even more than that. Do what you do because it takes time for people to see the true you like the reflection in front of you.&lt;/p&gt;
 
-&lt;h4 id=&quot;cheers&quot;&gt;Cheers!&lt;/h4&gt;
+&lt;p&gt;FIN.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2016/how-to-download-or-use-this-theme/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/how-to-download-or-use-this-theme/</guid>
+        <pubDate>Wed, 13 Jun 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/stories/2018/Reflection/</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2018/Reflection/</guid>
         
+        
+        <category>Stories</category>
         
       </item>
     
       <item>
-        <title>If you have a Guest post..</title>
-        <description>&lt;p&gt;If you think that you’re going to have a guest post… take a look on this post sample. Just add &lt;code class=&quot;highlighter-rouge&quot;&gt;author: GuestName&lt;/code&gt; to the YAML front matter. Then, the &lt;strong&gt;GuestName&lt;/strong&gt; will be appear on the next of post date. Oh, the guest name will be automatically uppercase.&lt;/p&gt;
+        <title>7 Days</title>
+        <description>&lt;p&gt;“It looks the cancer has spread further. It has started to progress to her optic nerves. We must take action now and remove it or there won’t be much time left for her. Chemo therapy is no more an option”, said the doctor to Faye’s mother who is currently seeing her world crash down on her. But it was Faye who sat beside her mother, emotionlessly. This was not something new to her. Being a 9 year old girl, she was nearly confined to the hospital. Tests after tests, therapy after therapy, her life was confined to the walls of the hospital and she already had lesser interest about her future. Her lack of emotions to life was more painful for mother to face than the ordeals of her demise. “We can setup an appointment for her in a week’s time. If we are successful, this would be the last time she would have to go through any of this”, said the doctor in a decisive tone. “And what if it fails?”, asked her mother in a reluctant tone. “Well, then I am afraid we will have to go back and start our research again to look for those odd solutions”. While looking at Faye her mom agreed to the ultimatum and decided to bet everything on the surgery in hopes that would give Faye her soul back which seems to have lost its shine over the past years. While heading back to their ward Faye had something she wanted to share. “Mom, it looks like I finally will be allowed to leave this hospital for good.” These words shattered whatever ounce of strength her mother had conjured just now. Tears rolled down her eyes and she did not have anything to say. She just got up and left the room while Faye laid in her bed hoping for the week to end soon.&lt;/p&gt;
+
+&lt;p&gt;Day 1:&lt;/p&gt;
+
+&lt;p&gt;Faye’s daily life revolved around where her would meet her mom in seeing her depressing mother and then sleeping the rest of the day. There was not much to do, the weather was great for one to go out and enjoy, but the warm rays from the sun could never penetrate her cold attitude. She got to meet her mom and then went ahead to fall asleep as usual. It was late evening when her sleep was disturbed by a new voice. “Hey why are you sleeping in the middle of the day? Wake up. Do you want to play? Get up you silly girl”, a boyish echoed though her room. “Get up you couch potato. God! For a girl you sure are lazy”, the comments started to make her mad and she decided to look at the person bothering her. She opened her eyes and found a boy wearing a bright red shirt, probably the same age as her grinning. “What do you want? Why are you in my room? Who are you to call me names?”, she yelled at the nuisance in front of her. “Whoa! So many questions. Who made you queen?”, said the boy smirking away after his reply. “Grrrr… Who are you? What are you doing in my room??”, Faye turned red in anger as she was beyond her limits. The boy replied, “Darwin is my name. I am new here, I’m in room 408 and was going through the floor. Doesn’t look like this place has a lot of kids around to play with. Do you want to play something with me?”. “Go away! I don’t want to play with anyone who calls me names and makes fun of me”, she replied. “Sorry, but I wanted to get your attention. You did not seem to be responding to my calls so I decided to push your buttons. But in any case, you really need to act like a kid. Only old people sleep at this hour.” Darwin’s responses only infuriated Faye as this was the first time someone talked to her this way and to top it off it was just a kid. Faye decided not to respond to the brat as she didn’t want to become a monkey in his game. “Hey, I said sorry. Why the long face? I only want to know you so I could play with you. I am not sure how long I would be here, but while I am here I thought I could use a friend. Will you be my friend?” Darwin’s approach had changed dramatically, but Faye was not ready to budge yet. “I see you are still mad. Guess, it is my fault. Sorry! I will leave now.”, said Darwin as he walked towards the door. “I will be back tomorrow once you have cooled down. Bye grumpy!”, Darwin dashed off across the hall laughing. Faye was caught by that last comment. “Wait, did he just call me with a name again? Is this kid going to bother me every day now? I cannot let this continue. Tomorrow I will show him who I’m.”, Faye was consumed by thoughts and eventually fell asleep thinking about what to do tomorrow to Darwin when he would visit her.&lt;/p&gt;
+
+&lt;p&gt;Day 2:&lt;/p&gt;
+
+&lt;p&gt;It was 9:00am in the morning, the boyish voice woke up Faye from her sleep again. “Yo! It is morning. Wake up you sleepy head.” With her half unconscious state of mind Faye opened one of her eyes and saw Darwin. It was too blurring of a vision but his annoying voice was enough to confirm it was him. “Wake up. Lets go and play.” Annoyed beyond her limit she got up on her bed and took the bottle of water from the desk besides her bed and emptied it on top of his head. “Good morning. You know you need to take a bath once you wake up”, she responded was with the most sarcastic tone possible. “You know. You are right. You should also take a bath”, Darwin started to wriggle like a dog splash the water all over the place and on Faye as well. “Now that we both have taken our bath, let’s go and play.” Stunned by his actions Faye had her jaw dropped and lost her words. “You know, it would be better if we dried ourselves first before playing. Let me go and grab us a towel”, Darwin left the room after uttering these words. Few moments later Faye’s mom stepped in and was surprised to see the wet floor and Faye. “What happened? Why are you wet?”, she questioned while wiping Faye with a dry towel. “Did you spill water when you tried to drink from it?”, concerned questions were being thrown at Faye which she was not interested to listen at this hour of the day. “I’m fine mom. Darwin was bothering me so I poured water on him. But he become a dog and splashed the water back at me.”, she replied with an annoyed tone of voice. “Darwin? Who is he? Anyways, that is not a nice thing to do. I am sure he was hurt by your actions.” Faye was under no impression to accept her mom’s comments, “I don’t think he gets hurt. He is a boy. Boys are like that. Hope he learnt his lesson for messing with me”, she replied. “Well in any case, play nice with him. I am sure he only wants to be your friend. Also, sweetie I need to visit few places this week to get your surgery ready. So please be strong for me. Mommy will always love you”, Faye’s mom kissed her forehead as she conveyed her message. “That is ok. I am used to this. You can go”, her emotionless words had hit her mom again and she left without anything else to add-on. Thirty minutes later Darwin had stepped in again with a different red shirt. “Sorry, I go held up by my mom for getting wet.”, Darwin replied as he scratched his head. “I guess you are not an outdoor person. May be you have some board games that we could play.” Before Faye could respond, Darwin scrambled though her desk and replied, “Cool! looks like you have tons of board games. Awesome!”. Faye has never met anyone like him before. It was as if someone left a wild monkey loose. At this stage she decided to tag along with the game to avoid further odd balls to be thrown at her by him. “Yeah, we can play some games”, she replied. One game after another, they spent the entire day playing board games. While she did enjoy her time, she was more pleased that she knew how to tame the wild monkey and was more content with that. “Wow! look at the time, it is getting late. Time for me to hit the bed. I really enjoyed today. Let’s do this again tomorrow”, Darwin stated as he started walking towards the door. “Same here….Wait! What!! You are coming again tomorrow?” exclaimed Faye. “Of course!” smirked Darwin as he left the room. Faye knew this won’t be stopping anytime soon. She decided to have her meal and hit the bed to fight another day.&lt;/p&gt;
+
+&lt;p&gt;Day 3:&lt;/p&gt;
+
+&lt;p&gt;Faye woke up a bit early today. Not knowing what to do she had decided to formulate a plan to scare Darwin when he would approach her today. After all she should show who’s the boss. Especially for such a wild monkey. She laid towards the opposite of the bed and decided to jump scare the moment Darwin as he walk nearby. She giggled for her ingenious plan to teach him a lesson and waited for her opportunity. She heard the door open and footsteps approaching her. Once the sound was close enough she sprung up off her bed. “BOO!!” But there was no one in the room. Before she could run her eyes through the room a pair of hands grabbed her from behind. “BOOOOO!” Darwin’s attempt to scare her was successful as Faye was startled to silence. “Gotch’ ya you scaredy cat”. Faye knew who it was and turned around while rolling her fist making Darwin flinch. “Who is the scaredy-cat now??”, Faye smirked with content while waiting for his response. “I will let you take this one. But I will get my revenge.”, replied Darwin. Both laughed it out for a bit and got on with their conversation. “I have something interesting planned for us today so meet me at 10am near the emergency stairway. I have something to do now but I wanted to make sure you know that we have plans today. I will be waiting for you. You better come.”, Darwin started to pace towards the door as he finished his sentence. Faye was curious about his plans and hence agreed to meet him. Her mom visited as usual and as usual her mom had that fake smile in from Faye that she wore to show she was strong. But for a change Faye was waiting for the clock to struck 10 to go and meet Darwin. Once it struck 10am, Faye sprinted towards the emergency stairway. She found him wearing a pink shirt and this made Faye burst out in laughter. “Are you a girl to wear pink?” she said. “Color doesn’t classify gender”, Darwin uttered this as he adjusted his invisible specs to act cool. “I believe you, Darwin”, Faye grinned as she gave her response. “So what did you plan for today?”. Darwin touches Faye shoulder and utters, “TAG! You are it! Catch me if you can you slowpoke” and dashes ahead. It was a game of tag between them and Faye knew the rules already. She ran behind Darwin and they ran all over the secluded section of the hospital to avoid nuisance to others. They switched roles many times and each time Darwin would do acts like a creature when he chased her. He took forms of T-Rex, a dog, a zombie, a monkey and many more. Faye laughed each time he was IT. Faye was worn out by the end of the day with all the activities they did today. It has been a while since she had this much fun and she was enjoying it. At the end of the day they decided to head back and rest their body. “You are quite active for a slowpoke you know. I hope you enjoyed today, because I did. Let us plan something for tomorrow as well”, said Darwin. “Definitely!” she replied. She was enthusiastic about what’s in store for tomorrow. They parted ways at Faye’s room and she headed for bed.&lt;/p&gt;
+
+&lt;p&gt;Day 4:&lt;/p&gt;
+
+&lt;p&gt;It was a beautiful day and Faye was up early to head out and play. She had her usual visitor, her mom. Her mom was surprised to see her daughter so active in the morning. “You seem so lively today. What is it?”, her mother asked. “Nothing much. I am just waiting for Darwin to come. We planned to play today as well”, she replied. “It is so nice to know you made a friend. I wish I could meet him. When does he usually come to visit you?” her mom asked. “He should be here in another 30 minutes”, she replied. “Hmm. I wish I could meet him. But I have to leave in sometime. ‘Our’ day is closing in and there is still a lot left to do from my end. I hope to meet him soon. Hopefully, he goes to a school nearby, may be you can join him there. Remember you said you like the uniform in St. Oak junior high. May be he goes there. Wouldn’t it be lovely.” her mom replied with a smile. “May be. Let’s see how the surgery goes first”, she said. While Faye may still seem to be cold with her response it did look to be different from before. Her mom left the room to go about her usual work shortly after their small talks. “May be I should visit him in his room instead. He said it was room 408 wasn’t it”, she thought. As she headed out she bumped into Darwin while bonking their heads together. “Ouch”, they both exclaimed. “I thought you were just a slowpoke, but it looks like your blind as a bat as well. You may be need glasses that are used in telescopes”, said Darwin as he burst out a huge laughter. “You know, that was quite a dull joke you”, she said while raising her eyebrow. Darwin gave a wicked grin and proceeded in walking with Faye to the secluded section of the hospital. “Today we will play hide and seek. Rules are straight forward, we will use only this portion of the hospital to play the game.” Since Faye had less experience with the game, she hide in some of the most obvious places and Darwin used to find her in ease and under 3 minutes . He teased her quite a lot for this and Faye finally decided to take this game seriously. She decided to hide in one of the storage rooms hoping to do better in this round. 10 minutes had passed by and she was content that she was doing better in this round. “Yeah! Who is awesome now!” she thought. Some more time passed by and there was still no sign of Darwin. “Why is he taking so long?” After few more minutes she decided to leave her spot and look for him. When she stepped out of the room she realized that she was all alone in this portion of the building. There was complete isolation and no one to reach to. She started to become anxious and decided to search for Darwin. Few more minutes passed by and she started to panic now. “Where is he? Is he lost? Is he hurt somewhere?” thoughts began to run through her head. She started to run towards the main building and eventually bumped into Darwin who’s off-white shirt was all dirty from dirt and dust. “Where were you? Why did you leave me alone because you got bored?” she started crying as she started pounding his chest. “I am sorry. I couldn’t find you anywhere”, he replied as he tried to calm her down. “Please don’t leave me all alone. It is scary to be alone”, she wailed. They decided to cut short their game time for today after what had happened. On their way back, they saw few kids play out on the hospital ground. Darwin asked Faye to go and speak with them however, she was hesitant to do so. “You need to learn to make friends. Sometimes the first step has to be taken by you”, he said. “But they would make fun of me or not like me”, she responded. “That is ok. It takes time to know someone. Wasn’t that how we met?” he replied to her silly responses. “I will wait and cheer you on from here. You go to that kid over there and just talk to him. It will be fine. You can do it.”, her gave his pep talk to boost her confidence. As Faye walked towards the kid she turned her head to see if Darwin was still within her sight. She reached the kid and started to talk. Few minutes later the kid parted ways and she came back towards Darwin with a huge smile. Her mission was successful. “Wasn’t that easy?” he asked. “I won’t say it was easy but, I think it is a start”, she replied. They both decided to spend the rest of the day on the hospital ground looking at the sky which grew darker. It looked it would rain hence they decided to head back to their room once the there was no more sun rays in sight.&lt;/p&gt;
+
+&lt;p&gt;Day 5:&lt;/p&gt;
+
+&lt;p&gt;With the rain pouring outside Faye woke up to a dull day. It looked like that she has to stick to playing indoors today but she had her hopes up in letting Darwin decide on the game for the day. She heard the doors open and found her mom to step in. But along with her she found her doctor to also step in. Her mom sat next to her and started to caress her cheeks while shedding tears. “How are you doing Faye”, the doctor asked. “I am ok I guess”, she replied casually. “That is good. I wanted to let you know that me and your parents have decided to schedule your surgery tomorrow. After tomorrow you will be all better and you will be a regular girl again going to school and having fun with your friends. She paused for a minute and stared at the doctor for a while. She just recalled the reason why she was here, why she had no friends, why her mom always looked so dull. She was sick and this was her ticket to get better. She was scared, but shocked to express it. Her mom had words of encouragement but a lot of things was running though her mind. Her mom and the doctor had step out to the doctor’s room for a while to discuss this further. It was during this time that Darwin entered the room. He wore a clean white shirt and found Faye her spot. He quickly learned about what was going and began to console Faye. She found this action to be repetitive and it had no value what so ever. “You are saying this cause things are going fine for you”, she replied in a harsh tone. Darwin quickly grabbed her hand and took her to the glassed balcony on the floor. “Look over there. That is the same ground where we played yesterday, the same ground where you meet the other kid. It is raining today but it doesn’t mean the ground is bad or gone forever. It is just one day and it will pass. Tomorrow will be a brighter day” he replied. She understand what he meant, it gave her courage something that she didn’t gain from her mom’s conversation. “I have my surgery as well tomorrow and my mom is on her way. I may not see her in time before the surgery. So I need to let her know that I am ok, I can’t reach her over phone so give me an idea to handle this you dummy.”, he said. “A letter maybe”, she replied. “Good thinking you silly. Now I want you to write the letter because my handwriting is not that good”, Darwin demanded. “I didn’t expect much either”, chuckled Faye. As Darwin quoted his words Faye began writing it down. She didn’t give much thought on what was said, but just went ahead and wrote the letter. “That should do it I guess.” he said. “You keep the letter with you cause it looks like your surgery is going to be shorter and since they are going to play with the wires on your head, when I come back for my letter you better remember to hand it over”, he ordered. She smiled to his quirky demands and agreed to it. “I have few tests today and I may not be there to play around but you can try and keep your mom occupied. I am sure she is not as strong as you. Let’s meet up after our surgery and have fun as usual”, he said and parted ways. Faye headed back to her room where her mom was anxiously waiting for her. “Where were you?” she asked. “Nothing much”, she replied. “Mom, it will be alright. Don’t worry”, her short response brought so much assurance that her mom was moved to tears. Faye placed Darwin’s note on the table next to her bed and spent the remaining day with her mom.&lt;/p&gt;
+
+&lt;p&gt;Day 6:&lt;/p&gt;
+
+&lt;p&gt;Nervous about the surgery, Faye woke up really early in the morning. It was still a cloudy day, however the rain had stopped. Her mom was with her the entire time. Faye was going through a lot and really wanted some comfort. The only thing she thought of was the promise she made with Darwin that she would return the letter to him after his and her surgery and they would get to play together again. She wanted things to go right so she could enjoy her life like she has been enjoying for the past few days. She was looking forward to a better future and she has this one big hurdle to jump over. The nurse came and made the arrangement to stroll her on the card to the O.R. She was hoping to see Darwin one last time before she headed to her O.R. however, when she passed by his room, it was already empty. “I guess, his surgery already started. I hope it goes well for him.” she thought to herself as she was being strolled. She reaches her O.R. and she could see the room occupied by many staffs wearing their face mask. Faye heart pounded faster as they prepped her on the table. She was nervous about her surgery, it has been such a long time since she had felt anything in her heart. She had been through a lot of treatment but this time it was different. She wanted for it to go right. She wanted to be alive. She wanted to enjoy life and be with friends who she can play with. Friend like Darwin who make her day bright with their crazy personality, who makes her feel alive. The surgeon took the gas masked and asked Faye to count to 10 backwards. She took her breathe to count down and as she reached closer to one, a drop of tear shed from her eye and she was out for the surgery to begin.&lt;/p&gt;
+
+&lt;p&gt;Day 7:&lt;/p&gt;
+
+&lt;p&gt;Faye finally woke up and regained completely consciousness. The sun’s rays were passing through the window and her mother who was seated under the rays was shedding tears of joy as the surgery was successful. “My sweetie, you are back. I am so happy you are still with me.” Faye was happy too, that this will be the last time she has to be stuck in a hospital. She can finally be normal. “How are you feeling Faye?”, the doctor asked. “Ok, I guess” she replied. “That is good to hear. You will have to stay for just few more days to help you get your energy but after that you are free to leave. Most of your charts are clean. Congratulations!”, he replied. Faye and her mom spent the entire day talking and making plans for everything they wanted to after she left the hospital. One thing however did bother Faye, Darwin was yet to visit her. She waited till late evening, however he was still a no show. During the evening checkup, she decide to ask the doctor about him. “Doctor, do you know how Darwin is doing?”, she asked. “I am sorry, who was it again?” “Darwin, he had a surgery yesterday. Is he doing ok?” “I am not sure who you are talking about, but we don’t have a patient called Darwin here. The only child who had a surgery yesterday was you.”, the doctor responded to the curious girl. “Are you sure, he should be in room 408?”, she asked. “That room has been empty for months, Faye”, replied the doctor. Faye’s mom nervously asked the doctor if something was wrong with her daughter. “I am not sure, the condition she had has had cases where people had both auditory/visual hallucinations. Darwin might have been someone from her imagination. In any cases this won’t be there anymore. So you don’t have to worry about that anymore. I will come and see you again tomorrow.” The doctor left the room after the check. Faye quickly recalled about the letter and reached for it. She began to read what was written.&lt;/p&gt;
+
+&lt;p&gt;It read, “There may never be a right time to say this but no matter what happens, even if I’m not there, you must carry on. Nothing can stop you from moving forward from where you are now. There is far too much to gain, than to lose. So smile, I will always be with you and we will meet again sometime, in a different way.”&lt;/p&gt;
+
+&lt;p&gt;Darwin was the last breathe of her faded personality, to give her hope for the future and look for the horizon against all her worries. Faye began to shed tears as she lost her first and true friend. Even though it was all in her head, he was the one closest to her and probably only the friend she ever needed.&lt;/p&gt;
+
+&lt;p&gt;FIN.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 09 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2016/if-you-have-a-guest-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2016/if-you-have-a-guest-post/</guid>
+        <pubDate>Fri, 23 Mar 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/stories/2018/7-Days/</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2018/7-Days/</guid>
         
         
-        <category>stories</category>
+        <category>Stories</category>
         
       </item>
     
       <item>
-        <title>If you have a Guest post..</title>
-        <description>&lt;p&gt;If you think that you’re going to have a guest post… take a look on this post sample. Just add &lt;code class=&quot;highlighter-rouge&quot;&gt;author: GuestName&lt;/code&gt; to the YAML front matter. Then, the &lt;strong&gt;GuestName&lt;/strong&gt; will be appear on the next of post date. Oh, the guest name will be automatically uppercase.&lt;/p&gt;
+        <title>Across The Street</title>
+        <description>&lt;p&gt;With the sun warming up the air and the pleasant breeze blowing by, you get to experience the freshness that spring has to offer. Today, just like any other day I worked at the shop with my manager and colleagues. I may not be a part of a large franchise but I do know that I make my customers happy with what I can offer. My manager is also quite good hearted, he takes good care of us so we make sure we do our part for him as well. Being single, I had less responsibilities. I was in my prime and it was all work for me. You would think that would be a dull life, but it wasn’t. I was content with what I had and did not think much of the future; kind of living with just the present.&lt;/p&gt;
+
+&lt;p&gt;There was a huge multiplex construction that was going for quite a while at our neighborhood and today is the day they had their inauguration. The multiplex had taken its effort to make it as visually captivating as possible with the classic lamp poles, flowering Myrtles trees and wooden benches to sit and relax under the shade. This was just opposite to our store, hence I kind of had front row seats for the extravaganza. So many people flocked to the place today. Few bigshot from the town hall, some local celebrities and a crowd of casual visitors and customers. It was a busy and crowded day, but not for us though. I decided to look at the event from time to time from where I could. It wasn’t until I spotted a store which just opened up that actually made me forget everything else.&lt;/p&gt;
+
+&lt;p&gt;With the myrtles flowers blowing across the store’s glass window I uttered, “Wow”. There she was, the most beautiful person I have ever seen. I knew my heart paused for a few moments. There were celebrities, but then there was her. She was different and I knew something made here shine much brighter than the rest. She was poised, charming and had a class of her own. I got sucked into a weird world that I have never been in and I truly admired her. I was literally gawking at her and I am sure many would have seen this if they had seen my look. I wouldn’t blame them, they would do the same. I knew she was beyond my reach, but I was happy to know that she would be working across the street.&lt;/p&gt;
+
+&lt;p&gt;Every day, I would wait for our store to open so that I could see her from where I stood, and every day I would see her be even more radiant than before. Her clothing sense were always of class and everyday people used to flock around her. I wish I could too, but I knew I won’t. Our world was the same, but we will always be in opposite lanes. I didn’t mind it though. I was happy from where I stood and what I got to see. This went on for weeks and everyday a new song would buzz me all day. I admired her too much and would always take a chance to sneak a peek from where I was. I am sure my manager would have spotted this, but he would not make a fuss, he knew me well for what I was. Truth be told, I believe I was eager for the next day and the future. I was becoming hopeful day by day.&lt;/p&gt;
+
+&lt;p&gt;On one rainy day, things turned a bit sour though. We had some unwanted customers at our door steps. These were bulky guys who were in no mood to be a part of our store. I was not that built to confront them but their business was with our manager. Once they had stepped out we found out these were henchmen asking us to shift our business to a different locality. I believe a small store such ours is an eye sore when you have such a big multiplex so close. We probably poison their ambiance with our stature. Our manager is strong and is not someone who would bend for such threats. While this did concern me a little, with our manager we knew we wouldn’t have to worry much. Besides, I always had her, in a way. Her presence was enough to turn my frown upside down any day. Unfortunately, fate seems to have had his own plans for me though.&lt;/p&gt;
+
+&lt;p&gt;One day, we find our store to be vandalized. No one was hurt or injured, but we were a bit scared for our safety now. We heard our manager faintly say, “They can break my stuff, however they won’t get to kick me out that soon.” We knew we couldn’t abandon him. As we were focusing on getting the store back on its feet, I wanted to see her to ease my mind a little. When I looked across the street, my world started to cave in. She was there as usual, as radiant as an angel could be. But there was someone with her now. He was dashing beyond words and was built to match her radiating beauty. They looked like the poster couple you would see in the movies. Together they shined a lot, but my world was turning dark right now, the vortex only sucked in their light and grew bigger the more I looked at them. She looked happy though, as always. I guess all I could do is be happy for her, after all it was just in my head, nothing was real, Right?&lt;/p&gt;
+
+&lt;p&gt;It took a couple of days for our store to get completely back on its feet, and my heart also sank in even more despair. It was too heavy to see her with him. I had nothing against him or her, but it was just not the same now. I would keep reminding myself that it was he was the best for her, that she should always have someone who was matched her level, but this was always with a sour taste. My world clouded far too much than ever before and I now had reached a point where I did my best to avoid her. It was not her fault, but rather my own inability to accept my reality.&lt;/p&gt;
+
+&lt;p&gt;One day our manager fell ill and we had to be closed for the day. I sulked with my own thoughts that day and it only made my state worse. I knew I couldn’t stop seeing her, but at the same time, I didn’t want to see her as well. It was too complex for me to reason with myself and I had no idea if I wanted to move on, stay or even go back. Next day we found out that a fire had broken in the multiplex and many stores had their merchandises burnt. The store where she worked was where apparently it all started. All that I could think of was her safety. Was she safe? Did she get injured? Is she alright? I realized that no matter how it is was for me, I always cared for her well-being. I regretted the fact that I had no idea who she was, or had even made an effort to know her. Right now I am helpless and useless at this stage with all these concerns for her. Days went by and the store was still shut. I hoped and prayed for her. Just knowing she is safe was all I wanted at this stage.&lt;/p&gt;
+
+&lt;p&gt;Finally the day came when the store opened up however she was not there. I was depressed and was at the bottom of the pit now. I had no closure for what I was going through and the only one to blame was myself for not taking an effort to go after which made me happy. Not because I wanted her, but to show my gratitude in a way for being a part of my life. I did what I could to function as usual, but a side of me always turned to the store across the street hoping to see her. During lunch hour, our manager had stepped out to get new supplies. He headed to the back alley where he generally parks his car and rode off. On his return he parked upfront and I was speechless during his return. There she was. She was entering our store. The closure I was looking for was right before my eyes, safe and sound.&lt;/p&gt;
+
+&lt;p&gt;“Hi, I am Vera, sorry I look a little messy. I have seen you across the stores many times but I never could talk to you due to the work rush”, she said with the same smile that she always had. “Hi! I am Zek. Thank god you are safe. You are really beautiful and I have always admired you from here.” He blabbered his thoughts out in nervousness. She started to laugh. “Why, thank you. It will be nice working with you from now on”, she said and that’s all was there to it. We became friends and more importantly, I got to talk to her. The fire burnt her arm a little and the mold of her arm had melted due to that, the store threw her out with the other burnt junk and the manager decided to bring her in as she was still in a very good condition. Yes, she is a mannequin, but so what, so am I. But does it matter how she looks like? She will always be precious to me for how she changed my world, even without her knowing it. And I promise to be by her side as long as I can and will always look forward for our next day. May be that is how fate works for us all.&lt;/p&gt;
+
+&lt;p&gt;FIN.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 09 Jun 2016 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2016/if-you-have-a-guest-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/if-you-have-a-guest-post/</guid>
+        <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/stories/2018/Across-The-Street/</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2018/Across-The-Street/</guid>
         
+        
+        <category>Stories</category>
         
       </item>
     
       <item>
-        <title>Markdown Cheatsheet Demo</title>
-        <description>&lt;h2 id=&quot;typography-elements-in-one&quot;&gt;Typography Elements in One&lt;/h2&gt;
+        <title>Gulzigheid</title>
+        <description>&lt;p&gt;Hailing from a noble family makes one’s lifestyle quite exquisite and demand for the best in the world. For someone like me who enjoys food, I expect nothing less than a masterpiece on my plate. I have traveled across seas and kingdoms and have experienced everything that the food world had to offer, or so I thought. It was until a recent trip to a remote town called Vlees that I realized that I haven’t truly relished the joy of food that the world has to offer. I was traveling to a kingdom in Epe with two of my soldiers to attend an annual fest which is considered to be the best in the world. We were passing by a town called Gortel which was a rundown town and since our journey would last a week more we had to stock up from this town.&lt;/p&gt;
 
-&lt;p&gt;Let’s start with a informative paragraph. &lt;strong&gt;This text is bolded.&lt;/strong&gt; But not this one! &lt;em&gt;How about italic text?&lt;/em&gt; Cool right? Ok, let’s &lt;strong&gt;&lt;em&gt;combine&lt;/em&gt;&lt;/strong&gt; them together. Yeah, that’s right! I have code to highlight, so &lt;code class=&quot;highlighter-rouge&quot;&gt;ThisIsMyCode()&lt;/code&gt;. What a nice! Good people will hyperlink away, so &lt;a href=&quot;#&quot;&gt;here we go&lt;/a&gt; or &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It was midday and thus we first headed to the Inn to fill our bellies and then stock up. The served food was revolting and this infuriated me to throw the bowl out the window. My actions caused a stir at the Inn, and I said “What foul meal is this? Do you think you could serve something like this to me? Do you know who I am?!” My ruckus was brought to the attention of the Innkeeper. He came over to apologize and offer a fresh batch of the meal, however I was in no mode to hear excuses. I decided to leave this place and take the food supplies from the market. I could not believe what I was hearing, the vendors pleaded that I took only what is needed. Apparently the town is doing its best to wait for the harvest and they would only ration out small quantities. I ordered my guards to take all the supplies they could carry and use force if required. The commotion caused a lot of verbal hatred being thrown between them and myself. One vendor approached me and said, “Sir, there is a town called Vlees, which is not far from here where you can get more supplies. It is was too expensive for our town to approach them. I am sure they are more than willing to extend their doors for royals such as yourselves.” This calmed me down as the hassle this town has put me through was enough for me to leave it at once.  The vendor directed me the path which was a slight detour from my current destination, however I would be there by sun down. It is odd that I have never heard of this place but at this stage anything would be better than this filth. Hence, we saddled up on our horses and headed to the town.&lt;/p&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;p&gt;As the last rays of the sun hid behind the mountains, we reached the town and we felt that we reached a place that we deserved to be at. Right from the gates of the town, to the Inn where we decided to stay for the night, to the food we ate, everything was something a noble family deserved. Even though the village was small and had only a handful of people, they all looked to be wealthy. Starving due to lack of proper meal during lunch, we had to make up for our losses. The meal served at the Inn was quite exquisite. I have never had such a wonderful meal and the meat tasted beyond this world. “What kind of meat is this?”, I asked. “It is our secret, Sir”, said the Innkeeper. “In our town we take extreme care to nurture our cattle to make it as tender as possible. We sell them to the kingdom nearby, and hence our town is so flourished. The honor of serving the kingdom is all we look for.”, said the keeper with all the pride one could have. “It would be a pleasure to have your meat in our kingdom as well. I would enjoy it more than what the peasants generally make for us”, I said as I recalled the plain food that I got at our kingdom. I even recalled executing some of the cooks for their lack of skills to call them a cook. Once our dinner was done we decided to hit our bed for the night as our senses needed the rest from the intoxicating meal.&lt;/p&gt;
 
-&lt;h2 id=&quot;headings-h1-to-h6&quot;&gt;Headings H1 to H6&lt;/h2&gt;
+&lt;p&gt;I felt a bit uncomfortable later that night, I tried to wrestle myself with the bed and for some reason however, I couldn’t. Wondering what was causing this unease feeling I decided to open my eyes and have a look. I was shocked at the sight of my status. I was shackled in chains and found myself lying on the cold damp floor in a very hot cell. I tried to break free of my chains however they were welded tight and firm. I screamed for help and was immediately silenced by the others who were in their cages. Even my soldiers were a part of these cells. As I tried to find the answers for what was going on I heard footsteps approach us. The light seeping through the cracks of the walls gave us a sight of a giant human approach us. “Time to work you slaves!”, said the mammoth as he pull each man from their cells. Trust me, the people in their cells looked really strong, however, they could never over power him even though they tried, even my soldiers were of no match when they confronted him. We headed outside and we were made to work. I have never turned a stone in my life before and here I am now, digging the ground and moving boulders. I threatened the dumb giant to let me go, however he had no interest on a tiny human. With our aching body and huge appetite we headed back to our cells, but before that we were made to wash ourselves, the cold water soothed my skin as the dirt and sweat washed away. With our wash done we moved to our main chamber where the cells were located. While heading to our cells there was something that caught my attention and also made me happy.&lt;/p&gt;
 
-&lt;h1 id=&quot;h1-heading&quot;&gt;H1 Heading&lt;/h1&gt;
+&lt;p&gt;Food!! and that too a ton of it. Oh! I felt the gods still haven’t forsaken me. “Eat now, for tomorrow you work”, said the giant with a smirk as he stood a side waiting for us to finish our meal. I ran to the desk and grabbed everything I could devour. I relished every single bite of it. It was a bit under cooked, but at this stage I had nothing to complain as my hunger had blinded my eyes. I ate till I could eat no more, and went and laid in my cell. I was content that the day was over and that I could sleep and rest which my body needed. I was too tired to think of other things at this stage. Next day, I was woken up when a bucket of water was splashed on me. It was cold, so cold. “Time to work you slaves!”, said the giant, proving his vocabulary skills are as small as his head. We went out did our bid, and at the end of day we washed ourselves and went for our meal. Every day, I stuffed myself and the food always tasted great. I understood that the food that you earn tastes great no matter how it is made. This realization made me recall of the hateful comments and words that I said against all the cooks whom I had criticized so much over these years.&lt;/p&gt;
 
-&lt;h2 id=&quot;h2-heading&quot;&gt;H2 Heading&lt;/h2&gt;
+&lt;p&gt;Days went by and our routine continued. I had started to build quite a fit figure. I wondered if people from my kingdom missed me. If they had ever sent out someone to look for me. If I would ever leave this place. I did also notice that every odd day there would be someone new at the ground and someone we knew had disappeared. I did not give much thought into it, but I did wonder as what might have happened to them. Did they manage to escape, or did they collapse? Few more days went by and one day I decided to try take on the giant with my soldiers. As soon as we were all out of our cells, we jumped on the chance, however he had over powered all of us. Defeat made me wondered if I would ever get to see freedom again.&lt;/p&gt;
 
-&lt;h3 id=&quot;h3-heading&quot;&gt;H3 Heading&lt;/h3&gt;
+&lt;p&gt;Finally something happened, not something that I wanted, but I got my freedom. We all headed to the ground for work. As I was moving the rubbles and the boulders I saw another giant walk up to me. “Come with me, you have been summoned”, he said. I was a bit curious as this was something new, but instead of being man handled and taken I decided to go with him. He took me to a kitchen where I saw huge stocks of food being dumped all over the room. “This must be the kitchen from where they get us our meal”, I thought to myself as I walked closer to the cook who was near the oven. Before I could talk, I was grabbed by the giant and thrown onto a chair nearby, tied and gagged till I had no room for movement. I tried to scream “let go of me!”, but my voice was muzzled up with the gag on my mouth. “He is ready”, said the giant signaling the cook. The chef turned around and said, “Oh! Hello, we meet again. How has your stay been? Was the evening food that I prepared any good?”. I was shocked. It was the Innkeeper that I had meet when I came to this town. “What is he doing here? Why is he doing this? What is he going to do to me?”, these through ran through my head. “I know what you are thinking. It is fine, I get this a lot “, he said. “You see, we had recently got an order, and I need to procure the supplies. That is all”, nothing more. I was puzzled and it was visible from my expression. “I guess you do not remember. I told you didn’t I, we take extreme care to nurture our cattle to make it as tender as possible.” I went pale white as I heard this. I knew what was going to happen to me and I was in the most helpless state possible to avoid it. “This might hurt a lot, but it is to make sure the meat is as fresh as possible. Hope you understand this.”, he said as he slowly started cutting pieces of my flesh to have them packed. I screamed and screamed which was silence down my throat as the blade went on with its task. I cried, I prayed, but it would not stop. I wanted this to end, or at least end my own life so that I do not see my own flesh being treated like a meat. Hours went by as I bled to a point where I had no energy left and had bare minimum consciousness. “Oh, it looks like your cell mates would be done for the day. I guess I need to hurry up and cook their meal”, he said as he slit my throat to work on me faster. As I faded into the darkness, I realized that food should be treated as it is meant to be. Nothing more, nothing less.&lt;/p&gt;
 
-&lt;h4 id=&quot;h4-heading&quot;&gt;H4 Heading&lt;/h4&gt;
-
-&lt;h5 id=&quot;h5-heading&quot;&gt;H5 Heading&lt;/h5&gt;
-
-&lt;h6 id=&quot;h6-heading&quot;&gt;H6 Heading&lt;/h6&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;footnote&quot;&gt;Footnote&lt;/h2&gt;
-
-&lt;p&gt;Let’s say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;]. You can even add more footnotes, with link! [&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;]&lt;/p&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;blockquote&quot;&gt;Blockquote&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible. –Francis of Assisi&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; This theme does NOT support nested blockquotes.&lt;/p&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;list-items&quot;&gt;List Items&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;First order list item&lt;/li&gt;
-  &lt;li&gt;Second item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Unordered list can use asterisks&lt;/li&gt;
-  &lt;li&gt;Or minuses&lt;/li&gt;
-  &lt;li&gt;Or pluses&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;code-blocks&quot;&gt;Code Blocks&lt;/h2&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// your module code goes here&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;na&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-        &lt;span class=&quot;na&quot;&gt;reset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;    
-        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;  
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;   
-&lt;span class=&quot;p&quot;&gt;}());&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;    &lt;span class=&quot;c1&quot;&gt;// alerts: 1&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;    &lt;span class=&quot;c1&quot;&gt;// alerts: 2&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;reset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;// alerts: 0&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;No language indicated, so no syntax highlighting.
-But let's throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;table&quot;&gt;Table&lt;/h2&gt;
-
-&lt;h3 id=&quot;table-1-with-alignment&quot;&gt;Table 1: With Alignment&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Tables&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;col 3 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;col 2 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;zebra stripes&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;table-2-with-typography-elements&quot;&gt;Table 2: With Typography Elements&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Markdown&lt;/th&gt;
-      &lt;th&gt;Less&lt;/th&gt;
-      &lt;th&gt;Pretty&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;renders&lt;/code&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;horizontal-line&quot;&gt;Horizontal Line&lt;/h2&gt;
-
-&lt;p&gt;The HTML &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; element is for creating a “thematic break” between paragraph-level elements. In markdown, you can create a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; with any of the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;___&lt;/code&gt;: three consecutive underscores&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;---&lt;/code&gt;: three consecutive dashes&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;***&lt;/code&gt;: three consecutive asterisks&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;renders to:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;media&quot;&gt;Media&lt;/h2&gt;
-
-&lt;h3 id=&quot;youtube-embedded-iframe&quot;&gt;YouTube Embedded Iframe&lt;/h3&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/n1a7o44WxNo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;image&quot;&gt;Image&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://octodex.github.com/images/minion.png&quot; alt=&quot;Minion&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;Footnote:&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;1: Footnote number one yeah baby! &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;2: A footnote you can link to - &lt;a href=&quot;#&quot;&gt;click here!&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
+&lt;p&gt;FIN&lt;/p&gt;
 </description>
-        <pubDate>Wed, 30 Dec 2015 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2015/markdown-cheatsheet-demo/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2015/markdown-cheatsheet-demo/</guid>
+        <pubDate>Sun, 12 Nov 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/stories/2017/Gulzigheid/</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2017/Gulzigheid/</guid>
         
         
-        <category>stories</category>
+        <category>Stories</category>
         
       </item>
     
       <item>
-        <title>Markdown Cheatsheet Demo</title>
-        <description>&lt;h2 id=&quot;typography-elements-in-one&quot;&gt;Typography Elements in One&lt;/h2&gt;
+        <title>Platform No.0</title>
+        <description>&lt;p&gt;There is a legend in my town, about a hidden platform at our local underground station. They call it platform No. 0. I have used this train station numerous times but I have never seen that platform before. People say you stumble upon it when the time is right. The myth reveals that anyone who experience a ride in the train that starts from this station would have a life changing experience.&lt;/p&gt;
 
-&lt;p&gt;Let’s start with a informative paragraph. &lt;strong&gt;This text is bolded.&lt;/strong&gt; But not this one! &lt;em&gt;How about italic text?&lt;/em&gt; Cool right? Ok, let’s &lt;strong&gt;&lt;em&gt;combine&lt;/em&gt;&lt;/strong&gt; them together. Yeah, that’s right! I have code to highlight, so &lt;code class=&quot;highlighter-rouge&quot;&gt;ThisIsMyCode()&lt;/code&gt;. What a nice! Good people will hyperlink away, so &lt;a href=&quot;#&quot;&gt;here we go&lt;/a&gt; or &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I myself do not how I reached this platform but I am here now. I was thrilled and anxious at the same time, however I was not scared as I was not alone. I saw a girl, probably 7-9 years old wearing a pink frock stand near the entrance of a compartment which was a couple of blocks away. The compartment doors open and she boarded the train. I was not sure what I should do, however I knew I could not let a kid ride the train alone. So, I boarded compartment closest to me quickly. The doors closed and the train was set in motion. I quickly moved up the compartments to get to that little girl.&lt;/p&gt;
 
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
+&lt;p&gt;She was seated and looking at the window at the one side of the train. I walked up to her and asked her, “Hey there kiddo, what are you doing alone in this train?”. “I don’t know”, she replied. “I didn’t know where to go so I boarded the train. I usually go on a train to meet my daddy. Will this take me to daddy?”, asked the puzzled little girl for whom I did not have an answer. “I’m not sure but I will try to get you to your daddy.”, I said. Her face gleamed with a smile. “My name is Shawn. What is your name?” “Lisa”, she said while looking through the glass window of the train. I turned my head to see what caught her attention and it amused me as well.&lt;/p&gt;
 
-&lt;h2 id=&quot;headings-h1-to-h6&quot;&gt;Headings H1 to H6&lt;/h2&gt;
+&lt;p&gt;The walls of the underground tunnel were painted with finest detail of images. Images of a child with her mom. That is when I realized, the train is moving at a pace which was not normal. It was slow, as if it was a journey meant to be experienced rather than traveled. The paintings were beautiful, each and every one of them. It told a story of kid laughing and smiling with her parents. Lisa and I moved closer to the window to watch these paintings. It was heart-warming. A painting of the kid smiling with a missing tooth, probably after the fall of the baby tooth. A kid sleeping on top of a big dog as if was the biggest animal in the world. A kid wearing a bug’s costume for Halloween with a bowl full of chocolates and so on. As the train moved on, the kid in the painting grew bigger and bigger with more pleasant memories a kid could have.&lt;/p&gt;
 
-&lt;h1 id=&quot;h1-heading&quot;&gt;H1 Heading&lt;/h1&gt;
+&lt;p&gt;The more we traveled I started to feel cold, quite cold and through of the kid who was by my side ran by my head. May be my care for her had been triggered by these paintings, but none the less I removed my jacket and give it to the girl. “It is getting cold in here, wear this. It will keep you warm”, I said. She smiled at me and said, “Thanks, but I think you would need more than I do”. She was right, I looked to be in a more bad shape when compared to her, but I didn’t expect a kid to be this aware of her surroundings. I slow turned my head back towards the window, when something struck me. The girl in the painting looks like her. I looked at her one more time and this time I was sure. It was her, however I did not know what was happening. Why would the walls be painted by pictures of a girl who was next to me? Who has never been on this train or this route. Before I could ask her about it, the train slowly started coming to a halt and the final painting on the wall was in front of us.&lt;/p&gt;
 
-&lt;h2 id=&quot;h2-heading&quot;&gt;H2 Heading&lt;/h2&gt;
+&lt;p&gt;I was shocked at its sight. It was a girl wearing a pink frock at the station with her mom, laughing as usual and the corner of the painting near the track stood someone. It was me who was in the painting and I could see how I looked like. I finally recalled what happened. I had a miserable life, tormented and dreaded as death could be. I never felt happy nor did I feel alive. I was going through the roughest patch of my life and I had no light to set my sights on nor did I have a warmth that I could grab onto. On that day, I was at the station, to end it all and hence waited for the train to come by. A train to stop halt everything in my life. This girl was playing with her mom and had tripped and fell on the track as the train approached.&lt;/p&gt;
 
-&lt;h3 id=&quot;h3-heading&quot;&gt;H3 Heading&lt;/h3&gt;
+&lt;p&gt;It wasn’t an act of heroism that I was after, however I felt it was not her time be at this place, hence I jumped and pushed her over to the other side of the track. The train traveled on finally came to z standing halt. “I guess it is time for me to go back to my daddy.”, she said. “Hope you find your station too Shawn”, she said. “You can look at the painting on the other side till you reach your place. Bye! Bye!”, she said.  I turned my head quickly and tears started to flow for what was at sight. I wiped them off and I turned back to bid my farewell with Lisa.&lt;/p&gt;
 
-&lt;h4 id=&quot;h4-heading&quot;&gt;H4 Heading&lt;/h4&gt;
+&lt;p&gt;I finally realized that I only have one station to get off, and that would be the last stop, however I was happy she didn’t have to join me till there. I turned around watched the painting on the other side, where all my happy memories of my life passed by. It occurred to me that we do not see what we have and we fixate on the things others have and darken our own world and experiences. I was so absorbed with all the negativity that I missed on being grateful for all the wonderful that I had been through which these paintings are showing me. Now I realized why people say this would be a life changing experience. Getting an opportunity to go through this experience and getting off half through this journey is more than enough to change anyone. Lisa is probably too young to realize this, but I do hope she always cheerful as the painting portrait-ed her. I sat down, relaxed myself as I grew colder and colder to enjoy all my memories I can see as this train headed toward the end of this tunnel.&lt;/p&gt;
 
-&lt;h5 id=&quot;h5-heading&quot;&gt;H5 Heading&lt;/h5&gt;
+&lt;p&gt;FIN.&lt;/p&gt;
 
-&lt;h6 id=&quot;h6-heading&quot;&gt;H6 Heading&lt;/h6&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;footnote&quot;&gt;Footnote&lt;/h2&gt;
-
-&lt;p&gt;Let’s say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;]. You can even add more footnotes, with link! [&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;]&lt;/p&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;blockquote&quot;&gt;Blockquote&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible. –Francis of Assisi&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; This theme does NOT support nested blockquotes.&lt;/p&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;list-items&quot;&gt;List Items&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;First order list item&lt;/li&gt;
-  &lt;li&gt;Second item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Unordered list can use asterisks&lt;/li&gt;
-  &lt;li&gt;Or minuses&lt;/li&gt;
-  &lt;li&gt;Or pluses&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;code-blocks&quot;&gt;Code Blocks&lt;/h2&gt;
-
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;c1&quot;&gt;// your module code goes here&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;na&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-        &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-        &lt;span class=&quot;na&quot;&gt;reset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;    
-        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;  
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;   
-&lt;span class=&quot;p&quot;&gt;}());&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;    &lt;span class=&quot;c1&quot;&gt;// alerts: 1&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;    &lt;span class=&quot;c1&quot;&gt;// alerts: 2&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;modularpattern&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;reset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;// alerts: 0&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;No language indicated, so no syntax highlighting.
-But let's throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;table&quot;&gt;Table&lt;/h2&gt;
-
-&lt;h3 id=&quot;table-1-with-alignment&quot;&gt;Table 1: With Alignment&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Tables&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;col 3 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;col 2 is&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;zebra stripes&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;table-2-with-typography-elements&quot;&gt;Table 2: With Typography Elements&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Markdown&lt;/th&gt;
-      &lt;th&gt;Less&lt;/th&gt;
-      &lt;th&gt;Pretty&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;renders&lt;/code&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;1&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;horizontal-line&quot;&gt;Horizontal Line&lt;/h2&gt;
-
-&lt;p&gt;The HTML &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; element is for creating a “thematic break” between paragraph-level elements. In markdown, you can create a &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; with any of the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;___&lt;/code&gt;: three consecutive underscores&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;---&lt;/code&gt;: three consecutive dashes&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;***&lt;/code&gt;: three consecutive asterisks&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;renders to:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;divider&quot;&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;media&quot;&gt;Media&lt;/h2&gt;
-
-&lt;h3 id=&quot;youtube-embedded-iframe&quot;&gt;YouTube Embedded Iframe&lt;/h3&gt;
-
-&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/n1a7o44WxNo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;image&quot;&gt;Image&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://octodex.github.com/images/minion.png&quot; alt=&quot;Minion&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;Footnote:&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;1: Footnote number one yeah baby! &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;2: A footnote you can link to - &lt;a href=&quot;#&quot;&gt;click here!&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
 </description>
-        <pubDate>Wed, 30 Dec 2015 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2015/markdown-cheatsheet-demo/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/markdown-cheatsheet-demo/</guid>
+        <pubDate>Wed, 27 Sep 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/stories/2017/Platform-No.0/</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2017/Platform-No.0/</guid>
         
+        
+        <category>Stories</category>
         
       </item>
     
       <item>
-        <title>The quick, brown fox jumps over a lazy dog</title>
-        <description>&lt;p&gt;The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.&lt;/p&gt;
+        <title>Captivity</title>
+        <description>&lt;p&gt;I don’t know how many days it has been. All I can do is sit in this place without a space to move an inch. It is so uncomfortable and I barely have a place to budge. How did I get here? Why am I here? I don’t have answers for this. Yet, why do I fell it is ok.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Days passed by, I still don’t know if I have ever seen the day light. I don’t know.  all I remember is this emptiness. Where am I? I wondered. Yet, why I do fell the warm of the sun around me as it were to fall on my skin.&lt;/p&gt;
 
-&lt;p&gt;Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs! “Now fax quiz Jack! “ my brave ghost pled. Five quacking zephyrs jolt my wax bed. Flummoxed by job, kvetching W. zaps Iraq. Cozy sphinx waves quart jug of bad milk.&lt;/p&gt;
+&lt;p&gt;Days passed by, it is still so stuffy in here. It is hard to breathe. I think I might choke in here. Yet, I don’t suffocate. It is odd, but I don’t know why I still can breathe and be alive.&lt;/p&gt;
 
-&lt;p&gt;A very bad quack might jinx zippy fowls. Few quips galvanized the mock jury box. Quick brown dogs jump over the lazy fox. The jay, pig, fox, zebra, and my wolves quack! Blowzy red vixens fight for a quick jump.&lt;/p&gt;
+&lt;p&gt;Days passed by, I still cannot open my eyes. I don’t know what happened to them, all I sense is the pitch darkness around me. I wondered what things lurked around me. Yet, I felt safe within this darkness. There is serenity with this darkness.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Joaquin Phoenix was gazed by MTV for luck. A wizard’s job is to vex chumps quickly in fog. Watch “Jeopardy! “, Alex Trebek’s fun TV quiz game. Woven silk pyjamas exchanged for blue quartz. Brawny gods just flocked up to quiz and vex him.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Days passed by, I still hear sounds, they are faint and muffled. I don’t know what they are saying, yet I hear them laugh. It is nice to hear voices; however, “why do they enjoy my pain and suffering?” I wondered.&lt;/p&gt;
 
-&lt;p&gt;Adjusting quiver and bow, Zompyc[1] killed the fox. My faxed joke won a pager in the cable TV quiz show. Amazingly few discotheques provide jukeboxes. My girl wove six dozen plaid jackets before she quit. Six big devils from Japan quickly forgot how to waltz.&lt;/p&gt;
+&lt;p&gt;Days passed by, I am still alive. I still get food, yet I don’t have the freedom to choose what I want eat or when I want eat. I don’t remember if I had freedom before. Yet, I am happy that they still keep me alive.&lt;/p&gt;
 
-&lt;p&gt;Big July earthquakes confound zany experimental vow. Foxy parsons quiz and cajole the lovably dim wiki-girl. Have a pick: twenty six letters - no forcing a jumbled quiz! Crazy Fredericka bought many very exquisite opal jewels.&lt;/p&gt;
+&lt;p&gt;Days passed by, I still save my energy each day to break free, but it always falls short. I wonder how much more should I suffer. Yet, why do I feel safe being here. “Would I anger them with my actions?” I thought.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sixty zippers were quickly picked from the woven jute bag. A quick movement of the enemy will jeopardize six gunboats. All questions asked by five watch experts amazed the judge. Jack quietly moved up front and seized the big ball of wax.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Days passed by, I hear a lot of noise, it not pleasant and it does not ease my mind. They seem to be turning hostile yet, I am still safe. I hope this is just a phase while I plan my escape.&lt;/p&gt;
 
-&lt;p&gt;The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox.&lt;/p&gt;
+&lt;p&gt;Days passed by, I now feel a lot of pain. I don’t know why. “Did I do something wrong?” I wondered why. This pain hurts, my chest hurts. It stops for while but it starts again. “What is going on?” I worry with my thoughts.&lt;/p&gt;
 
-&lt;p&gt;Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex. Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs!&lt;/p&gt;
+&lt;p&gt;Days passed by, this pain increases and my body hurts all over. I want to escape but I don’t think I will survive with my strength. I should wait, let this pass by…. “Hope these days pass by”, is what I prayed.&lt;/p&gt;
 
-&lt;p&gt;“Now fax quiz Jack! “ my brave ghost pled. Five quacking zephyrs jolt my wax bed. Flummoxed by job, kvetching W. zaps Iraq. Cozy sphinx waves quart jug of bad milk. A very bad quack might jinx zippy fowls. Few quips galvanized the mock jury box. Quick brown dogs jump over the lazy fox. The jay, pig, fox, zebra, and my wolves quack! Blowzy red vixens fight for a quick jump. Joaquin Phoenix was gazed by MTV&lt;/p&gt;
+&lt;p&gt;The day just started, I don’t think I have much time. I don’t want to be disposed off, but I don’t think I have a say in this. I want to scream, but I don’t think I can or remember if I could.&lt;/p&gt;
+
+&lt;p&gt;“Mom! I am not ready to go out! I won’t survive! Please make them stop!” I know my voices do reach her, but I don’t think she can do anything either. She has given up and agreed to this future, a future of mine that is not for anyone else to make, but her.&lt;/p&gt;
+
+&lt;p&gt;They want a grown woman to bare them a child, yet they nip the child at their prime. It doesn’t make sense and I can’t voice these thoughts of mine.&lt;/p&gt;
+
+&lt;p&gt;“Mom, I know you tried. You did what you could. You tried to keep me captive to let me out when it was my time, but I guess we both have no voices in the end. Please don’t cry because you are still fine. I don’t mind passing by…..For you, I would never mind….”&lt;/p&gt;
+
+&lt;p&gt;The day passed by… one last time.&lt;/p&gt;
+
+&lt;p&gt;FIN.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 12 Oct 2015 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2015/the-quick-brown-fox-jumps-over-a-lazy-dog/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/the-quick-brown-fox-jumps-over-a-lazy-dog/</guid>
+        <pubDate>Fri, 28 Jul 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/stories/2017/Captivity/</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2017/Captivity/</guid>
         
+        
+        <category>Stories</category>
         
       </item>
     
       <item>
-        <title>What is Lorem Ipsum?</title>
-        <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+        <title>Fairy Tale</title>
+        <description>&lt;p&gt;It was autumn, the sun was about to set and the last rays of the sun fell through the bedroom window where Lamila has been all through her vacation. She did not have any friends she could go and visit even though she stayed at Turda, a full fledged city with a lot of people. Her books were her only company she had, which helped her be a part of the fairy tale it brought. However, things changed one day. While she gazed at the sun set with the loneliness and void which even the fairly tale could not fill, she fell asleep for a while and when she woke up she was surrounded by a giant trees which did not have an end. She was not sure where she was however, she definitely knew she was not in Romania. These trees were as green as green could ever be and the leaves were big enough to wrap herself in. She wandered through the forest looking for a place for shelter, even she knew the danger of being alone in a forest at sunset. She eventually reached a stream and followed it downstream hoping to find a village or a town, and to her luck she did find one. She did not know if it was a friendly territory, but at this time she had to take a chance. As she reached the gates she was stopped by humanoid based creatures who were slightly bigger than a average human. Worried that they might hurt her she approached them slowly to talk to them, however they greeted her and made sure she had nothing to worry about. Pretty soon, she was escorted to a nearby Inn where she would stay and be introduced to the elders of the village. The elder did meet her after her dinner and spoke about her unusual visit to their world. She did not know how she made it here nor were the elders aware of such folk tales before. They assured her that she can stay here till they have figure this out.&lt;/p&gt;
 
-&lt;h3 id=&quot;where-does-it-come-from&quot;&gt;Where does it come from?&lt;/h3&gt;
+&lt;p&gt;Lamila being the shy type, never initiated any discussion with others, however over here she seemed different. She started making friends and the entire village knew here in a span of few days. She was happy to be here, a place where she was never was alone. One day as she walked by the streets she meet a different creature, it did resemble like the rest of them however it had sharp nails, large fangs that stuck out from its mouth, eyes which were blood red, a physique of an alpha male, a scary entity to be around with.  Yet, she found small kids calling it names…. ‘half-breed’, ‘half-breed’. It was odd that he was not bothered by this, but rather went ahead with his manual labor. People too did not show any signs of compassion towards him. Everyday she would see the villagers make him do tasks that would require a group, yet they would abuse him with that load. She wanted to know why he was different from the rest and decided to talk with him; however, he did not utter a word to her. Once the work was complete he always left for his cave where he would lock himself up. Troubled by the events and thoughts that ran through her head, she decided to check with the kids one day. She learn that he had been like this for when they could remember, he takes orders from the villagers and did what was requested and responded to them alone. Once done, he would head back to his cave. None of the kids or grown ups knew why he was different, however everyone knew he was someone to be worked when needed. To learn about him she decided to give orders to him to get to know him.&lt;/p&gt;
 
-&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
+&lt;p&gt;Next day she went to him and asked him to help her out to pick flowers. Just like she was told, he obeyed her orders and went with her. This gave her the opportunity to talk to him, she asked all the questions she had in her mind and he replied to every single one of them. She learnt so much about him. She was shocked to hear that he has been in this town for centuries and his form was due to a curse put on him by people who hated him. When the day ended, he handed over the flowers he had picked out and left for his cave. She was happy she got to talk to him and decided to do this again to know more about him. Everyday, for a week she would give silly orders to him so that she could talk. The more she talked the more she understood that he was much gentler than he looked. He lived his life this way because he was different. He had on other place to go to. Only when people needed him, would they approach him. To him his existence revolved with the notion that in life if you are not useful you are not needed. To him those orders made him fell he was wanted. She felt sorry for him for thinking this way. She wanted to say more, however she couldn’t. She was happy that they talked a lot, she loved the bond she was building with him. However, one morning things went south for her. She went to him without any orders and decided to talk with him. As expected he did not respond to her. She tried her best to make him speak, however he kept ignoring her. Annoyed by her constant bickering and enraged with the notion of not being useful he pushed her to the ground with all the built up rage. His fangs, his claws, his eyes, all spoke about his rage, it was plain rage and nothing else. Terrified by how quickly he changed, how everything they did together lost value over such a trivial ordeal shook her from the inside. He saw the terrified look in her eyes and left for his cave without uttering a sound.&lt;/p&gt;
 
-&lt;p&gt;The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum et Malorum” by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.&lt;/p&gt;
+&lt;p&gt;Later that night, when Lamila was trying to absorb all these events she found a huge shadows by her window.  He sat by the window waiting for her to open it. She walked up to the window and opened it. He looked into her eyes and then wiped her tears off. He did not say a word but she understood what he want to convey. The night ended for them when there were no tears left to wipe and he then left for his cave. Next day she decided to go see him; however, she did not know if she needed an order, she was still scared because of what happened yesterday however, what happened during the night was something she thought of. Before she could speak he grabbed her hand and smiled. That was enough, she knew she was different to him now. She does not require an order to be with him anymore. They did not speak a word, however they just looked into each other eyes and smiled. This kind of communication was more clear than the ones they had before. During the night he would visit her at her window as she lay in her bed. They would just look at each other and once she fall asleep he would disappear into the night. Whether he was busy or not, she would always go and see him, and he would always make time for her as well. The bond she had built took her to the moon every day.&lt;/p&gt;
 
-&lt;h3 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h3&gt;
+&lt;p&gt;While this fairy tale continued there were problems brewing at her place. While she was a guest at this town, with him this place felt like home; however, over time she was brought to reality that not everyone liked her anymore. They had to make special arrangements to accommodate her because she was a guest. The elders too did not bother helping her, but rather decided to use her to learn about her world and its weaknesses. When these emotions were brought to light it ate her heart and she wanted to leave, however she did not want to leave because of the bond that bound her with him. That night when he visited her, he realized something was off from her looks. For the first time he had to voice it out, ‘What is wrong?’, as she remained silent. Once she poured it out, he entered her room and held tight, she started tearing up and within a blink of an eye they had teleported to the edge of the forest. He lifted her chin and asked her to look above. Her pupils grew large as she saw the starry night. They were so many galaxies she could see, and he pointed out the world she was from. “I will get you home if you want to leave, I promise”, he said. “I thought you enjoyed being here but if this place is hurting you, then it is better to leave”. “So you too want me to leave”, she asked as the thought of him getting rid of her like the rest ran through her mind. With a smile on his face he said, “As long as you are happy I do not mind how close or far away you are. I will always be with you no matter where you go”. While the words did comfort her, she knew this dialog too well. No one could always be with someone, especially if you are this far away and when it is beyond galaxies she know this is wishful thinking. She wanted to leave, but not like this. “It will take sometime to get things set and you will have to build some strength to handle the teleportation, however I will get us through this”, he said without any sadness what so ever. She did not know what to feel at this point as she herself was not sure what to do, but since he said he will be there to get them through she decided to tag along for one last time in this fairy tale.&lt;/p&gt;
 
-&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
+&lt;p&gt;Being older and wiser than the rest of the people in the village he began to look through the oldest scrolls available in town. After reading through them he identified when the next time the galaxy alignments would be right to get this done. They began their quest to find the materials to build the portal from there on. During the day he would work on other’s trivial orders and during the night time they would together search for things required. She loved every moment she spent with him and did not want to stop even for a moment’s rest. She knew his resolve in getting her home is all that ran through his head and he did push himself even more to get things done for her, she was happy and sad at the same time since she is gonna miss all of this when the time comes. Time went on, and they grew closer and closer to each other day after day, night after night. No one in the city was aware of this development nor did someone bother looking into it, because who would waste time on what a half-breed does.&lt;/p&gt;
 
-&lt;h3 id=&quot;where-can-i-get-some&quot;&gt;Where can I get some?&lt;/h3&gt;
+&lt;p&gt;Finally, the day had come, she did not want to tell others to their face that she planned on leaving, however she did write a letter to thank them for their hospitality and kindness they had show her when she reached this world. More importantly, because she got someone special because of them. It was night, he waited as usual at her window for one last time. She let him in, he held her hand and he was about to teleport them. But before he could, she hugged him. He decided to wait for while to let the emotions sink in. After few minutes he took them to their spot, where the galaxies aligned. Lamila had a lot to say but she couldn’t speak for the first time. With the arrangements and preparations complete, the portal opened and the destination was set. She stood on top of the marked circle to wait for it take her home. She was hesitant to leave and leave him behind; however, she had to leave before she regretted her stay, before she regretted his existence for being in this world where she couldn’t stay. She knew he could never be at her place because of how he looked. It will be too dangerous for his own sake to follow her. Markus knew Lamila had things on her mind that was bothering her, he walked up to her, held her tight and said ‘I will always be with you.’ while giving his first kiss on her forehead. A flash of light started to emerge out of him, Lamila started feeling something warm enter her. She could feel his heartbeat, his breathe, his thoughts, his emotions… his soul began to fuse with her own and his physical existence began to fade away. Tears started rolling down her cheeks on its own. She never knew such things could ever be possible. A faint voice spoke in her ear, ‘I made a promise, I will always be with you no matter where you go, didn’t I.’ The light started to fade away and now she teared up even more as they poured out through Lamila eyes as she sat on her bed in her bedroom. She was home, the same lonely room where she sat before this fairy tale started. However, this time, most importantly, the fairy tale did not end, it just started a whole new volume which she gets to write.&lt;/p&gt;
 
-&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This content was copied from http://www.lipsum.com/ as an example of post article.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;FIN&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Mar 2015 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2015/what-is-lorem-ipsum/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/what-is-lorem-ipsum/</guid>
+        <pubDate>Thu, 20 Apr 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/stories/2017/Fairy-Tale/</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2017/Fairy-Tale/</guid>
         
+        
+        <category>Stories</category>
+        
+      </item>
+    
+      <item>
+        <title>Diary</title>
+        <description>&lt;p&gt;With the birds singing their song at dawn, slowly the sun’s rays entered the cottage window and fell on Scott’s eyes. He rolled around his bed to avoid it, however the sun had no plans to budge for his actions. “Wake up darling, time to get out of bed”, words were uttered by a woman who sat by his side with her head close to his ears. He woke up to the sight of a lovely woman who greeted him with a smile which would melt even the toughest of the icebergs by its warmth. However, this warmth was still unfamiliar to him. He had recently been in an accident causing severe amnesia and he is still yet to recall his memories. The cottage where they stayed was deep into the woods. One would question if it was right to be so far away from the hustle of the city where you had most of your memories, however does the reeking familiarity of pain and anguish help anyone? His fiancée did bring him here to heal, so that they two could work on this at their own pace, to fix what is broken.&lt;/p&gt;
+
+&lt;p&gt;Everyday he would feel blessed to have some as beautiful and loving as her in his life, however he could never recall a thing about her. He wanted to reciprocate the same genuine feeling for her, however in his current state he couldn’t. He would try really hard and it only ended up hurting his head even further. The only memories he had of her were on the diary that sat next to his bed. Every day he would go through same pages where he had written all of his life, their life, a life where he woke up, lived, and slept off into the night with her. Every day he would see his fiancée do the same things written the diary to the finest detail mentioned in it. He loved how his fiancée was still the same while he wasn’t. However, even the diary did not have all the answers he was looking for as the last entry on the diary ended up with an action stating they were out to meet someone important to her. Initially he always asked her about that day, however she always changed the topic. He never forced her as he could see it made her uneasy. Frustrated by the lack of answers to his questions he would squabble a lot and his fiancée did her best to comfort him, just like it was written in the diary. One day he ended up saying something harsh to her, “You do the same things as in the diary, why don’t you do something else for a change”. He knew these words would hurt her, however he on his own was in a lot of pain. With a smiling yet tearful face she said, “I am sorry, but you did write the smallest detail possible about me like a girl in that diary. I am not sure if I can be any different than what is written. If you did not have the diary you might not have felt this way”. When these words were spoke something happened. It was not guilt that ran through his mind, but a flash of image. His head pounded hard when he tried to see what it was and he collapsed when he pushed himself beyond his limit.&lt;/p&gt;
+
+&lt;p&gt;When he woke up he felt different, everything felt different to him. He walked up to her and confronted her, he asked what she had felt about the diary he had. Casually she said, “I am not sure why you write a girl in a diary, I have never heard of any man every do such as thing”. Again, these words ran a spark in his head but this time a vision of another woman brushed through his head. This time he was smiling, he had a genuine smile which he had never felt before. In this blissful moment, the diary fell from his hands and a photo fell through one of its hidden chambers. It was a photo of him with someone else. The entire house had no pictures and this was the first picture he had seen ever since he had woke up in this place. When he looked at it he knew the person in the picture was his soul mate, she was everything to him and she was the reason the diary came into his life; however, if that was the case who was this woman with him all this time, the one who took care of him for so long?&lt;/p&gt;
+
+&lt;p&gt;When he finally opened his eyes he saw the look on her face, he knew the cat was out of the bag for her. “Answer me, who are you?”, said Scott with a confused and enraged voice. “How I wish you had just forgot all of it. How I wish you had remained the same way you are now. I would have taken care of you till the end of the world”, Eva uttered these words with a familiar tone that he had heard before. “I told Lily how much I loved you, yet she never gave up on you. I was her best friend and you came between us. You made us choose one over the other, that I why I called you both that day to settle things once and for all. If I couldn’t have you I wouldn’t let anyone else have you. I had to literally stab her in the back and you have no idea how it felt. I did all of this for you yet you still went for her, that is when I bashed your head so hard. I would have killed you that day if it weren’t for your face, the face that I fallen for. That is why I had to take you all the way here, away from all the things we ever knew. However, look how fate unfolded, you ended up forgetting everything. I thought this was my second change to be with you. I read your diary and tried to become the girl of your life, however it looks it was a short lived illusion as well. Now that we have reached the same spot, this time I cannot let you leave me behind. I cannot go on like this because of you.”, said Eve with tears rolling down her cheeks and grabbing a kitchen knife. “Are you going to attack me? Do you think you can overpower me this time?”, said Scott with his eyes focused on her. “No, I know that will never happen. Right now you are looking at me, that is all I ever wanted. I know I cannot stop you, however I can leave you before you do”, said Eva as she ran the knife straight into her heart with all her might. You could see and feel it was a single instance of pain that went though her. “You might not understand this, but all is fair in love and war, everything I did was fair for my love”, uttered Eva as she bleed slowly at the kitchen table. Scott rushed to her and held her tightly to his chest, it might not be love which made him do it, but he want to let her die in peace with a memory that she longed for, even if his peace was already lost because of her.&lt;/p&gt;
+
+&lt;p&gt;FIN.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Apr 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/stories/2017/Diary/</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2017/Diary/</guid>
+        
+        
+        <category>Stories</category>
+        
+      </item>
+    
+      <item>
+        <title>Eternal Love</title>
+        <description>&lt;p&gt;“Finally, my first valentine’s day”, ran through Mia’s mind as she blushed and look at the mirror when she got dressed. Today was Valentine’s Day and it is been a year since she meet Pierre, the man who swept her off her feet. She always doubted herself and Pierre, for she was just a normal and simple girl, a florist by profession, a girl raised in the country side who went to an all-girl catholic school, who was constantly reminded about the wolfs under the human clothing that dwelled in the city and Pierre, a sophisticated man from the greater France region of Paris. An art preserver &amp;amp; restorer by trade and a collector by choice. She always had her guard up around people because of things told by her parents, however when she was around Pierre she always felt safe. One would have doubts on how such Cinderella stories unfolded as these stories do not occur in real life.&lt;/p&gt;
+
+&lt;p&gt;The cogwheel started its spin when Pierre when to Mia’s shop to buy some flowers after the previous Valentine’s Day. Pierre was down as his friend had recently passed away and he was mesmerized by Mia’s smile when she greeted him as he entered the shop. A smile where her cheeks tighten causing it to dimple, while her checks blushed red with the blood flow. He always had reminded her on how that smile makes his heart at ease the moment he saw her, and how that blush made his heart pound faster. 
+On the day of Valentine’s Day they went out to the museum around Paris. One would wonder why they would choose such a place on a special occasion. Well that would be because Mia was always lead by Pierre to the most romantic place possible, however she realized she never got the opportunity to see him contributions to the art world. Hence they visited Louvre and Rodin where he had worked in restoring various artifacts. Mia was able to see his eyes glow as he poured his heart out in explaining the story behind each of his restorations. She loved seeing him the way he is right now and did not realize how time passed by.&lt;/p&gt;
+
+&lt;p&gt;It was late evening and they ended up missing their reservation at the restaurant. Instead of looking for another place Pierre suggested if they could have dinner at his place. Mia was nervous when he uttered that line, however it was not because it was the first she is would be heading out to a guy’s place but rather the idea of meeting his parents and being accepted for what she is. It was only when she reached the place or should we say a ‘palace’ did she realized that they weren’t at home. A garden filled with statues and as she walked past the hallway she found a lot of animal taxidermies. The sheer number of the animal displays scared her. Pierre smiled and explained her about his family, how they have been into the field of preservation, how all the animals that are for display where once a part of the family in this house which dates back by few centuries. They both headed for the kitchen to make their dinner and they made their food like a couple would. After dinner Pierre wanted Mia to see his workroom where he dives into his job to do what he does best, so he grabbed her hands and walked her down the corridor. The workroom was at his basement which had a narrow and dark stairway. Mia gripped his hand even tighter as she kept taking each step as the scent of ethanol and other chemicals creeping into her nostrils the further she when went down. On finally reaching the basement Mia started to feel dizzy and collapsed, however it was not the smell which caused it, but rather it was something else.&lt;/p&gt;
+
+&lt;p&gt;When she opened her eyes she found lights beaming directly on her on and she turned her head to the side to escape the light see saw the most shocking thing in her life. There were many taxidermy, but not of animals but of women. “Looks like you are finally awake. I thought I may have had to extend our last plan for the day to tomorrow”, said Pierre. Mia found herself to be bounded to a table with tubes pierced into her veins. “You have nourished so well. You glow so bright that I just couldn’t stop myself. I do not know how long this embalming would take but can you please smile for me as we wait.” With the loss of blood and with formaldehyde and other chemicals being slowly pumped into her veins, Mia was already too tied to fight back and near unconscious to react. The man she knew, the man she fell in love stood there still smiling at her, however it was not comforting her anymore. She wanted a closure before it ended and asked just one question “Why me?”. “There was nothing extremely special about you other than your smile. You see beauty is seen at its prime when the heart is rich with emotions and what better day to capture these emotions other than Valentine’s Day. I only want to preserve your beautiful smile before it faded away as you grow old. Like the rest of them, for eternity I wanted to capture your qualities for the world to see  where we live in. So please smile for me. I don’t want to fake your smile when I preserve you. It needs to be natural like you.” said Pierre eagerly waiting for Mia to smile. Mia teared up with the remaining drops of tears left in her and waited to for this day to end. As she reached her final breathe she did smile, not because he had asked her to, but the last image that flashed before her eyes were of the day when she meet him for Pierre was still Pierre, someone who loved his job more than one should.&lt;/p&gt;
+
+&lt;p&gt;FIN&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Mar 2017 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/stories/2017/Eternal-Love/</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2017/Eternal-Love/</guid>
+        
+        
+        <category>Stories</category>
         
       </item>
     

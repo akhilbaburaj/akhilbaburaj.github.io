@@ -1,0 +1,45 @@
+---
+layout : "page"
+Title : ":/Title"
+---
+With the sun warming up the air and the pleasant breeze blowing by, you get to experience the freshness that spring has to offer. Today, just like any other day I worked at the shop with my manager and colleagues. I may not be a part of a large franchise but I do know that I make my customers happy with what I can offer. My manager is also quite good hearted, he takes good care of us so we make sure we do our part for him as well. Being single, I had less responsibilities. I was in my prime and it was all work for me. You would think that would be a dull life, but it wasn't. I was content with what I had and did not think much of the future; kind of living with just the present. 
+
+
+
+There was a huge multiplex construction that was going for quite a while at our neighborhood and today is the day they had their inauguration. The multiplex had taken its effort to make it as visually captivating as possible with the classic lamp poles, flowering Myrtles trees and wooden benches to sit and relax under the shade. This was just opposite to our store, hence I kind of had front row seats for the extravaganza. So many people flocked to the place today. Few bigshot from the town hall, some local celebrities and a crowd of casual visitors and customers. It was a busy and crowded day, but not for us though. I decided to look at the event from time to time from where I could. It wasn't until I spotted a store which just opened up that actually made me forget everything else.
+
+
+
+With the myrtles flowers blowing across the store’s glass window I uttered, "Wow". There she was, the most beautiful person I have ever seen. I knew my heart paused for a few moments. There were celebrities, but then there was her. She was different and I knew something made here shine much brighter than the rest. She was poised, charming and had a class of her own. I got sucked into a weird world that I have never been in and I truly admired her. I was literally gawking at her and I am sure many would have seen this if they had seen my look. I wouldn't blame them, they would do the same. I knew she was beyond my reach, but I was happy to know that she would be working across the street.
+
+
+
+Every day, I would wait for our store to open so that I could see her from where I stood, and every day I would see her be even more radiant than before. Her clothing sense were always of class and everyday people used to flock around her. I wish I could too, but I knew I won’t. Our world was the same, but we will always be in opposite lanes. I didn't mind it though. I was happy from where I stood and what I got to see. This went on for weeks and everyday a new song would buzz me all day. I admired her too much and would always take a chance to sneak a peek from where I was. I am sure my manager would have spotted this, but he would not make a fuss, he knew me well for what I was. Truth be told, I believe I was eager for the next day and the future. I was becoming hopeful day by day.  
+
+
+
+On one rainy day, things turned a bit sour though. We had some unwanted customers at our door steps. These were bulky guys who were in no mood to be a part of our store. I was not that built to confront them but their business was with our manager. Once they had stepped out we found out these were henchmen asking us to shift our business to a different locality. I believe a small store such ours is an eye sore when you have such a big multiplex so close. We probably poison their ambiance with our stature. Our manager is strong and is not someone who would bend for such threats. While this did concern me a little, with our manager we knew we wouldn't have to worry much. Besides, I always had her, in a way. Her presence was enough to turn my frown upside down any day. Unfortunately, fate seems to have had his own plans for me though. 
+
+
+
+One day, we find our store to be vandalized. No one was hurt or injured, but we were a bit scared for our safety now. We heard our manager faintly say, "They can break my stuff, however they won't get to kick me out that soon." We knew we couldn't abandon him. As we were focusing on getting the store back on its feet, I wanted to see her to ease my mind a little. When I looked across the street, my world started to cave in. She was there as usual, as radiant as an angel could be. But there was someone with her now. He was dashing beyond words and was built to match her radiating beauty. They looked like the poster couple you would see in the movies. Together they shined a lot, but my world was turning dark right now, the vortex only sucked in their light and grew bigger the more I looked at them. She looked happy though, as always. I guess all I could do is be happy for her, after all it was just in my head, nothing was real, Right? 
+
+
+
+It took a couple of days for our store to get completely back on its feet, and my heart also sank in even more despair. It was too heavy to see her with him. I had nothing against him or her, but it was just not the same now. I would keep reminding myself that it was he was the best for her, that she should always have someone who was matched her level, but this was always with a sour taste. My world clouded far too much than ever before and I now had reached a point where I did my best to avoid her. It was not her fault, but rather my own inability to accept my reality.
+
+
+
+One day our manager fell ill and we had to be closed for the day. I sulked with my own thoughts that day and it only made my state worse. I knew I couldn't stop seeing her, but at the same time, I didn't want to see her as well. It was too complex for me to reason with myself and I had no idea if I wanted to move on, stay or even go back. Next day we found out that a fire had broken in the multiplex and many stores had their merchandises burnt. The store where she worked was where apparently it all started. All that I could think of was her safety. Was she safe? Did she get injured? Is she alright? I realized that no matter how it is was for me, I always cared for her well-being. I regretted the fact that I had no idea who she was, or had even made an effort to know her. Right now I am helpless and useless at this stage with all these concerns for her. Days went by and the store was still shut. I hoped and prayed for her. Just knowing she is safe was all I wanted at this stage. 
+
+
+
+Finally the day came when the store opened up however she was not there. I was depressed and was at the bottom of the pit now. I had no closure for what I was going through and the only one to blame was myself for not taking an effort to go after which made me happy. Not because I wanted her, but to show my gratitude in a way for being a part of my life. I did what I could to function as usual, but a side of me always turned to the store across the street hoping to see her. During lunch hour, our manager had stepped out to get new supplies. He headed to the back alley where he generally parks his car and rode off. On his return he parked upfront and I was speechless during his return. There she was. She was entering our store. The closure I was looking for was right before my eyes, safe and sound.
+
+
+
+"Hi, I am Vera, sorry I look a little messy. I have seen you across the stores many times but I never could talk to you due to the work rush", she said with the same smile that she always had. "Hi! I am Zek. Thank god you are safe. You are really beautiful and I have always admired you from here." He blabbered his thoughts out in nervousness. She started to laugh. "Why, thank you. It will be nice working with you from now on", she said and that's all was there to it. We became friends and more importantly, I got to talk to her. The fire burnt her arm a little and the mold of her arm had melted due to that, the store threw her out with the other burnt junk and the manager decided to bring her in as she was still in a very good condition. Yes, she is a mannequin, but so what, so am I. But does it matter how she looks like? She will always be precious to me for how she changed my world, even without her knowing it. And I promise to be by her side as long as I can and will always look forward for our next day. May be that is how fate works for us all.
+
+
+
+FIN.
