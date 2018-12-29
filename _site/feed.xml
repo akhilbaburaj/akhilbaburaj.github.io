@@ -5,8 +5,8 @@
     <description>My personal blog to share random stuff!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Dec 2018 15:38:56 +0530</pubDate>
-    <lastBuildDate>Sat, 29 Dec 2018 15:38:56 +0530</lastBuildDate>
+    <pubDate>Sat, 29 Dec 2018 15:48:49 +0530</pubDate>
+    <lastBuildDate>Sat, 29 Dec 2018 15:48:49 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -67,8 +67,8 @@ This should allow you to pull, add, change, commit and then push the files to yo
 &lt;p&gt;Hope this helps you in directing your path on hosting on GitHub. There are tons of other articles online however, I will recommend that you do go for the most latest article as GitHub has changes quite a bit and some of the earlier steps mentioned are not explicitly required anymore to achieve the same task.&lt;/p&gt;
 </description>
         <pubDate>Sat, 29 Dec 2018 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2018/Hosting-On-GitHub/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2018/Hosting-On-GitHub/</guid>
+        <link>http://localhost:4000/tech/2018/Hosting-On-GitHub</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/2018/Hosting-On-GitHub</guid>
         
         
         <category>Tech</category>
@@ -90,8 +90,8 @@ This should allow you to pull, add, change, commit and then push the files to yo
 &lt;p&gt;FIN.&lt;/p&gt;
 </description>
         <pubDate>Mon, 24 Dec 2018 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2018/Pictures/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2018/Pictures/</guid>
+        <link>http://localhost:4000/stories/2018/Pictures</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2018/Pictures</guid>
         
         
         <category>Stories</category>
@@ -113,8 +113,8 @@ This should allow you to pull, add, change, commit and then push the files to yo
 &lt;p&gt;FIN.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jun 2018 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2018/Reflection/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2018/Reflection/</guid>
+        <link>http://localhost:4000/stories/2018/Reflection</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2018/Reflection</guid>
         
         
         <category>Stories</category>
@@ -160,8 +160,8 @@ This should allow you to pull, add, change, commit and then push the files to yo
 &lt;p&gt;FIN.&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Mar 2018 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2018/7-Days/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2018/7-Days/</guid>
+        <link>http://localhost:4000/stories/2018/7-Days</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2018/7-Days</guid>
         
         
         <category>Stories</category>
@@ -193,8 +193,8 @@ This should allow you to pull, add, change, commit and then push the files to yo
 &lt;p&gt;FIN.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jan 2018 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2018/Across-The-Street/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2018/Across-The-Street/</guid>
+        <link>http://localhost:4000/stories/2018/Across-The-Street</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2018/Across-The-Street</guid>
         
         
         <category>Stories</category>
@@ -220,8 +220,8 @@ This should allow you to pull, add, change, commit and then push the files to yo
 &lt;p&gt;FIN&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Nov 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2017/Gulzigheid/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2017/Gulzigheid/</guid>
+        <link>http://localhost:4000/stories/2017/Gulzigheid</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2017/Gulzigheid</guid>
         
         
         <category>Stories</category>
@@ -250,8 +250,8 @@ This should allow you to pull, add, change, commit and then push the files to yo
 
 </description>
         <pubDate>Wed, 27 Sep 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2017/Platform-No.0/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2017/Platform-No.0/</guid>
+        <link>http://localhost:4000/stories/2017/Platform-No.0</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2017/Platform-No.0</guid>
         
         
         <category>Stories</category>
@@ -293,8 +293,8 @@ This should allow you to pull, add, change, commit and then push the files to yo
 &lt;p&gt;FIN.&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Jul 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2017/Captivity/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2017/Captivity/</guid>
+        <link>http://localhost:4000/stories/2017/Captivity</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2017/Captivity</guid>
         
         
         <category>Stories</category>
@@ -320,8 +320,8 @@ This should allow you to pull, add, change, commit and then push the files to yo
 &lt;p&gt;FIN&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Apr 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2017/Fairy-Tale/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2017/Fairy-Tale/</guid>
+        <link>http://localhost:4000/stories/2017/Fairy-Tale</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2017/Fairy-Tale</guid>
         
         
         <category>Stories</category>
@@ -341,8 +341,8 @@ This should allow you to pull, add, change, commit and then push the files to yo
 &lt;p&gt;FIN.&lt;/p&gt;
 </description>
         <pubDate>Sun, 16 Apr 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2017/Diary/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2017/Diary/</guid>
+        <link>http://localhost:4000/stories/2017/Diary</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2017/Diary</guid>
         
         
         <category>Stories</category>
