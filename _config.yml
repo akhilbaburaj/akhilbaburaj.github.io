@@ -36,13 +36,13 @@ defaults:
     scope:
       path: "_posts/photos"
     values:
-        permalink: /stories/:year/:title/
+        permalink: /photos/:year/:title/
         categories: ['Photos']
   -
     scope:
       path: "_posts/tech"
     values:
-        permalink: /stories/:year/:title/
+        permalink: /tech/:year/:title/
         categories: ['Tech']         
 
 # Sass configuration
