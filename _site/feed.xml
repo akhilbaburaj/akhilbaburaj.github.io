@@ -5,9 +5,75 @@
     <description>My personal blog to share random stuff!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Dec 2018 15:30:07 +0530</pubDate>
-    <lastBuildDate>Fri, 28 Dec 2018 15:30:07 +0530</lastBuildDate>
+    <pubDate>Sat, 29 Dec 2018 15:38:56 +0530</pubDate>
+    <lastBuildDate>Sat, 29 Dec 2018 15:38:56 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Hosting On Github</title>
+        <description>&lt;p&gt;Well, since I managed to get this up and running. I decided I will go ahead and just jot down the things I did to get this working. This is not a copy paste kind of article however, pointers on how you could take it about to make it work. I will highly recommend that you do your research when hosting your site. There are tons of way to do the same thing. Some site are jaw dropping when you mix JS, CSS, HTML5 hence, take your time to make the site to suit you need.&lt;/p&gt;
+
+&lt;h2 id=&quot;pre-requisites&quot;&gt;Pre-requisites:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;GitHub Account
+It is free for hosting public repository so nothing much to lose.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Understanding the basic concepts and commands of GitHub
+I started off by going through the following Youtube playlist. Simple and cool to learn.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLeo1K3hjS3usJuxZZUBdjAcilgfQHkRzW&quot;&gt;Git/Github Tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Basic idea on writing HTML websites or working with static site generator such as ‘Jekyll’ 
+I went with Jekyll since it looks to be easier than writing my own HTML code. The following Youtube playlist was awesome to understand a lot of things in a very short time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&quot;&gt;Jekyll - Static Site Generator | Tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;steps&quot;&gt;Steps:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Create a repository in the format&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;github_username&amp;gt;.github.io&lt;/code&gt; :&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;eg) My GitHub username is ‘akhilbaburaj’ hence, my repository is ‘akhilbaburaj.github.io’
+This would be the repository where all you website(s) are hosted. Yes, you can host multiple sites however, the path will be unique if you want to view different sites. Currently, I have no plans to host multiple sites hence, I am hosting the entire site on root repository path(/).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create your HTML pages or copy paste your HTML files(eg. index.html) to your repository folder on you local machine. Since I went with Jekyll, I used it to create a folder named as &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;github_username&amp;gt;.github.io&lt;/code&gt; eg. ‘akhilbaburaj.github.io’. Jekyll creates a default template of files so it is quite easy to host the template and contents for future articles as well. With help from Jekyll you can test it locally as well before making the commit.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use GitHub CLI or GitHub Desktop to update your repository:
+This should allow you to pull, add, change, commit and then push the files to your repository.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Once the files are pushed, give it some time before trying to load the page on your browser using the URL &lt;code class=&quot;highlighter-rouge&quot;&gt;http://&amp;lt;github_username&amp;gt;.github.io/&lt;/code&gt; eg.&lt;a href=&quot;http://akhilbaburaj.github.io/&quot;&gt;http://akhilbaburaj.github.io/&lt;/a&gt;. If things are hosted fine then, your still will officially online for public use.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; You can see that the theme I used does not match the default theme provided by Jekyll. There are tons of Themes available for free and you can use them too however,to test you would have to ‘jekyll build’ and ‘jekyll serve’ in the folder when you have your theme.&lt;/p&gt;
+
+&lt;p&gt;If you would like to use custom domain like ‘example.io’ then, please make to update your DNS records and also the CNAME file. This setting can be configured from your repository’s setting section (not. your account/profile section). For more steps please follow the steps mentioned in GitHub’s official document:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/&quot;&gt;Adding or removing a custom domain for your GitHub Pages site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hope this helps you in directing your path on hosting on GitHub. There are tons of other articles online however, I will recommend that you do go for the most latest article as GitHub has changes quite a bit and some of the earlier steps mentioned are not explicitly required anymore to achieve the same task.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Dec 2018 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/stories/2018/Hosting-On-GitHub/</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2018/Hosting-On-GitHub/</guid>
+        
+        
+        <category>Tech</category>
+        
+      </item>
     
       <item>
         <title>Pictures</title>
@@ -277,28 +343,6 @@
         <pubDate>Sun, 16 Apr 2017 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/stories/2017/Diary/</link>
         <guid isPermaLink="true">http://localhost:4000/stories/2017/Diary/</guid>
-        
-        
-        <category>Stories</category>
-        
-      </item>
-    
-      <item>
-        <title>Eternal Love</title>
-        <description>&lt;p&gt;“Finally, my first valentine’s day”, ran through Mia’s mind as she blushed and look at the mirror when she got dressed. Today was Valentine’s Day and it is been a year since she meet Pierre, the man who swept her off her feet. She always doubted herself and Pierre, for she was just a normal and simple girl, a florist by profession, a girl raised in the country side who went to an all-girl catholic school, who was constantly reminded about the wolfs under the human clothing that dwelled in the city and Pierre, a sophisticated man from the greater France region of Paris. An art preserver &amp;amp; restorer by trade and a collector by choice. She always had her guard up around people because of things told by her parents, however when she was around Pierre she always felt safe. One would have doubts on how such Cinderella stories unfolded as these stories do not occur in real life.&lt;/p&gt;
-
-&lt;p&gt;The cogwheel started its spin when Pierre when to Mia’s shop to buy some flowers after the previous Valentine’s Day. Pierre was down as his friend had recently passed away and he was mesmerized by Mia’s smile when she greeted him as he entered the shop. A smile where her cheeks tighten causing it to dimple, while her checks blushed red with the blood flow. He always had reminded her on how that smile makes his heart at ease the moment he saw her, and how that blush made his heart pound faster. 
-On the day of Valentine’s Day they went out to the museum around Paris. One would wonder why they would choose such a place on a special occasion. Well that would be because Mia was always lead by Pierre to the most romantic place possible, however she realized she never got the opportunity to see him contributions to the art world. Hence they visited Louvre and Rodin where he had worked in restoring various artifacts. Mia was able to see his eyes glow as he poured his heart out in explaining the story behind each of his restorations. She loved seeing him the way he is right now and did not realize how time passed by.&lt;/p&gt;
-
-&lt;p&gt;It was late evening and they ended up missing their reservation at the restaurant. Instead of looking for another place Pierre suggested if they could have dinner at his place. Mia was nervous when he uttered that line, however it was not because it was the first she is would be heading out to a guy’s place but rather the idea of meeting his parents and being accepted for what she is. It was only when she reached the place or should we say a ‘palace’ did she realized that they weren’t at home. A garden filled with statues and as she walked past the hallway she found a lot of animal taxidermies. The sheer number of the animal displays scared her. Pierre smiled and explained her about his family, how they have been into the field of preservation, how all the animals that are for display where once a part of the family in this house which dates back by few centuries. They both headed for the kitchen to make their dinner and they made their food like a couple would. After dinner Pierre wanted Mia to see his workroom where he dives into his job to do what he does best, so he grabbed her hands and walked her down the corridor. The workroom was at his basement which had a narrow and dark stairway. Mia gripped his hand even tighter as she kept taking each step as the scent of ethanol and other chemicals creeping into her nostrils the further she when went down. On finally reaching the basement Mia started to feel dizzy and collapsed, however it was not the smell which caused it, but rather it was something else.&lt;/p&gt;
-
-&lt;p&gt;When she opened her eyes she found lights beaming directly on her on and she turned her head to the side to escape the light see saw the most shocking thing in her life. There were many taxidermy, but not of animals but of women. “Looks like you are finally awake. I thought I may have had to extend our last plan for the day to tomorrow”, said Pierre. Mia found herself to be bounded to a table with tubes pierced into her veins. “You have nourished so well. You glow so bright that I just couldn’t stop myself. I do not know how long this embalming would take but can you please smile for me as we wait.” With the loss of blood and with formaldehyde and other chemicals being slowly pumped into her veins, Mia was already too tied to fight back and near unconscious to react. The man she knew, the man she fell in love stood there still smiling at her, however it was not comforting her anymore. She wanted a closure before it ended and asked just one question “Why me?”. “There was nothing extremely special about you other than your smile. You see beauty is seen at its prime when the heart is rich with emotions and what better day to capture these emotions other than Valentine’s Day. I only want to preserve your beautiful smile before it faded away as you grow old. Like the rest of them, for eternity I wanted to capture your qualities for the world to see  where we live in. So please smile for me. I don’t want to fake your smile when I preserve you. It needs to be natural like you.” said Pierre eagerly waiting for Mia to smile. Mia teared up with the remaining drops of tears left in her and waited to for this day to end. As she reached her final breathe she did smile, not because he had asked her to, but the last image that flashed before her eyes were of the day when she meet him for Pierre was still Pierre, someone who loved his job more than one should.&lt;/p&gt;
-
-&lt;p&gt;FIN&lt;/p&gt;
-</description>
-        <pubDate>Sun, 05 Mar 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/stories/2017/Eternal-Love/</link>
-        <guid isPermaLink="true">http://localhost:4000/stories/2017/Eternal-Love/</guid>
         
         
         <category>Stories</category>
